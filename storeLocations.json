@@ -565,5 +565,12 @@
         "type": "Theatre",
         "latitude": 45.5510971,
         "longitude": -122.675653
+    },
+    {
+        "name": "Inn at Northrup Station",
+        "address": "2025 NW Northrup St, Portland, OR 97209",
+        "type": "Hotel",
+        "latitude": 45.5314993,
+        "longitude": -122.693422
     }
 ]
