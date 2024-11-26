@@ -1,0 +1,488 @@
+[
+    {
+        "name": "The Realm Refillery",
+        "address": "2310 NE Broadway, Portland, OR 97232",
+        "latitude": 45.5347519,
+        "longitude": -122.6419521
+    },
+    {
+        "name": "Fabo's Tacos",
+        "address": "121 NW 5th Ave, Portland, OR 97209",
+        "latitude": 45.5242189,
+        "longitude": -122.6755967
+    },
+    {
+        "name": "Crisp Salads",
+        "address": "3901 N Williams Ave, Portland, OR 97227",
+        "latitude": 45.5510236,
+        "longitude": -122.6670077
+    },
+    {
+        "name": "Pure Green",
+        "address": "7117 SE Milwaukie Ave, Portland, OR 97202",
+        "latitude": 45.4727997,
+        "longitude": -122.6487735
+    },
+    {
+        "name": "Kilo D'Cofi",
+        "address": "600 SW Pine St, Portland, OR 97205",
+        "latitude": 45.5223239,
+        "longitude": -122.6770758
+    },
+    {
+        "name": "Eastside Coffee",
+        "address": "1315 SE 20th Ave, Portland, OR 97214",
+        "latitude": 45.5133795,
+        "longitude": -122.6459029
+    },
+    {
+        "name": "Church",
+        "address": "2600 NE Sandy Blvd, Portland, OR 97232",
+        "latitude": 45.5281482,
+        "longitude": -122.6390749
+    },
+    {
+        "name": "Pallet Portland",
+        "address": "3747 SE Hawthorne Blvd, Portland, OR 97214",
+        "latitude": 45.5121784,
+        "longitude": -122.624876
+    },
+    {
+        "name": "Mercury League",
+        "address": "959 SE Division St Suite 140, Portland, OR 97214",
+        "latitude": 45.505315,
+        "longitude": -122.6564362
+    },
+    {
+        "name": "Honey Cafe Latte",
+        "address": "1033 SE Main St, Portland, OR 97214",
+        "latitude": 45.5138743,
+        "longitude": -122.655019
+    },
+    {
+        "name": "Crisp Salads Division",
+        "address": "2045 SE Division St, Portland, OR 97202",
+        "latitude": 45.5050328,
+        "longitude": -122.6445582
+    },
+    {
+        "name": "New Taste of India",
+        "address": "6123 S Macadam Ave, Portland, OR 97239",
+        "latitude": 45.4795847,
+        "longitude": -122.6732233
+    },
+    {
+        "name": "Maria Latina",
+        "address": "7100 SW Hampton St, Tigard, OR 97223",
+        "latitude": 45.4273284,
+        "longitude": -122.7507616
+    },
+    {
+        "name": "Cultured Kindness Vegan Cheese Shop",
+        "address": "1217 SE Stark St, Portland, OR 97214",
+        "latitude": 45.519498,
+        "longitude": -122.6532693
+    },
+    {
+        "name": "Made in Oregon",
+        "address": "7000 NE Airport Way, Portland, OR 97218",
+        "latitude": 45.5891588,
+        "longitude": -122.5934943
+    },
+    {
+        "name": "45th Parallel Wines",
+        "address": "8527 N Lombard St, Portland, OR 97203",
+        "latitude": 45.59024290000001,
+        "longitude": -122.7543209
+    },
+    {
+        "name": "Jae's Market",
+        "address": "4735 SE Belmont St, Portland, OR 97215",
+        "latitude": 45.5168398,
+        "longitude": -122.6137768
+    },
+    {
+        "name": "World Foods",
+        "address": "830 NW Everett St, Portland, OR 97209",
+        "latitude": 45.5249199,
+        "longitude": -122.6798799
+    },
+    {
+        "name": "Goodies Snack Shop",
+        "address": "139 NW 2nd Ave, Portland, OR 97209",
+        "latitude": 45.5244393,
+        "longitude": -122.6726802
+    },
+    {
+        "name": "Pleasure Burger",
+        "address": "606 SW Broadway, Portland, OR 97205",
+        "latitude": 45.5198472,
+        "longitude": -122.6791811
+    },
+    {
+        "name": "Events at Hunt & Gather Catering",
+        "address": "1203 NW Glisan St, Portland, OR 97209",
+        "latitude": 45.52665469999999,
+        "longitude": -122.6835476
+    },
+    {
+        "name": "Fairfield Inn & Suites Portland Airport",
+        "address": "11929 NE Airport Way, Portland, OR 97220",
+        "latitude": 45.5676384,
+        "longitude": -122.5404558
+    },
+    {
+        "name": "The Dog House PDX",
+        "address": "5029 SE Division St, Portland, OR 97215",
+        "latitude": 45.5054551,
+        "longitude": -122.6103884
+    },
+    {
+        "name": "Tacos Fita",
+        "address": "701 SW 6th Ave, Portland, OR 97204",
+        "latitude": 45.5185947,
+        "longitude": -122.6792741
+    },
+    {
+        "name": "Ben Bridge Jeweler",
+        "address": "801 SW 5th Ave, Portland, OR 97204",
+        "latitude": 45.5180685,
+        "longitude": -122.6781822
+    },
+    {
+        "name": "Ben Bridge Jeweler",
+        "address": "9518 SW Washington Square Rd, Portland, OR 97223",
+        "latitude": 45.4509886,
+        "longitude": -122.7813988
+    },
+    {
+        "name": "Roasted by Mom Coffee",
+        "address": "2038 NE Aloclek Dr Ste 219 Hillsboro, Oregon 97124",
+        "latitude": 45.5337476,
+        "longitude": -122.8982739
+    },
+    {
+        "name": "Courtyard Portland Downtown",
+        "address": "435 NE Wasco St, Portland, OR 97232",
+        "latitude": 45.5327439,
+        "longitude": -122.6611153
+    },
+    {
+        "name": "Tender Loving Empire",
+        "address": "7000 NE Airport Way Ste 2226, Portland, OR 97218",
+        "latitude": 45.5891588,
+        "longitude": -122.5934943
+    },
+    {
+        "name": "Pour Decisions",
+        "address": "6350 SE Foster Rd, Portland, OR 97206",
+        "latitude": 45.4896444,
+        "longitude": -122.5971917
+    },
+    {
+        "name": "Krown Barbershop",
+        "address": "10602 NE Sandy Blvd, Portland, OR 97220",
+        "latitude": 45.5585916,
+        "longitude": -122.5535855
+    },
+    {
+        "name": "Veeva Clinics",
+        "address": "1307 NE 102nd Ave Portland, OR 97220",
+        "latitude": 45.5326242,
+        "longitude": -122.5588675
+    },
+    {
+        "name": "The Bidwell Marriott Portland",
+        "address": "520 SW Broadway, Portland, OR 97205",
+        "latitude": 45.5205294,
+        "longitude": -122.6788213
+    },
+    {
+        "name": "Hearth",
+        "address": "9469 SW Washington Square Rd, Portland, OR 97223",
+        "latitude": 45.4509182,
+        "longitude": -122.7836015
+    },
+    {
+        "name": "Wow Cow",
+        "address": "9100 SW Burnham St, Tigard, OR 97223",
+        "latitude": 45.4287172,
+        "longitude": -122.7712153
+    },
+    {
+        "name": "Machus",
+        "address": "1101 SW Alder St, Portland, OR 97205",
+        "latitude": 45.52112839999999,
+        "longitude": -122.6829234
+    },
+    {
+        "name": "Que Dice",
+        "address": "722 SE 10th Ave, Portland, OR 97214",
+        "latitude": 45.5176811,
+        "longitude": -122.6554336
+    },
+    {
+        "name": "Orox Leather",
+        "address": "7000 NE Airport Way, Portland, OR 97218",
+        "latitude": 45.5891588,
+        "longitude": -122.5934943
+    },
+    {
+        "name": "Ki Coffee",
+        "address": "4655 SW Griffith Dr, Beaverton, OR 97005",
+        "latitude": 45.4862967,
+        "longitude": -122.7964788
+    },
+    {
+        "name": "Guilder Cafe inside Powell's Books",
+        "address": "1005 W Burnside St, Portland, OR 97209",
+        "latitude": 45.5231012,
+        "longitude": -122.6813283
+    },
+    {
+        "name": "Junior's Roasted Coffee",
+        "address": "7151 NE Prescott St Portland, OR 97218",
+        "latitude": 45.5552787,
+        "longitude": -122.5899935
+    },
+    {
+        "name": "El Pil\u00f3n",
+        "address": "431 SW Harvey Milk St, Portland, OR 97204",
+        "latitude": 45.5208579,
+        "longitude": -122.676106
+    },
+    {
+        "name": "The Whole Bowl (Portland Food Hall)",
+        "address": "827 SW 2nd Ave, Portland, OR 97204\n",
+        "latitude": 45.5169982,
+        "longitude": -122.6754259
+    },
+    {
+        "name": "The Whole Bowl (Invisibowl)",
+        "address": "3634 SE Division St, Portland, OR 97202",
+        "latitude": 45.5046049,
+        "longitude": -122.6256792
+    },
+    {
+        "name": "The Whole Bowl (Beaverton Bowl)",
+        "address": "4580 SW Watson Ave, Beaverton, OR 97005",
+        "latitude": 45.4865969,
+        "longitude": -122.805979
+    },
+    {
+        "name": "The Whole Bowl (Quimbowl)",
+        "address": "1515 NW 23rd Ave, Portland, OR 97210",
+        "latitude": 45.5336594,
+        "longitude": -122.699157
+    },
+    {
+        "name": "The Whole Bowl (Eight-Bowl)",
+        "address": "701 SW 6th Ave, Portland, OR 97204",
+        "latitude": 45.5185947,
+        "longitude": -122.6792741
+    },
+    {
+        "name": "The Whole Bowl (North Portland)",
+        "address": "3540 N Vancouver Ave, Portland, OR 97227",
+        "latitude": 45.5488955,
+        "longitude": -122.6678017
+    },
+    {
+        "name": "The Whole Bowl (Super Bowl)",
+        "address": "4526 SE Hawthorne Blvd, Portland, OR 97215",
+        "latitude": 45.5118875,
+        "longitude": -122.6155262
+    },
+    {
+        "name": "The Whole Bowl (Hollywood Bowl)",
+        "address": "4615 NE Sandy Blvd, Portland, OR 97213",
+        "latitude": 45.53823480000001,
+        "longitude": -122.6157771
+    },
+    {
+        "name": "Let's Roll PDX (inside Moxy)",
+        "address": "585 SW 10th Ave, Portland, OR 97205",
+        "latitude": 45.5208733,
+        "longitude": -122.6820145
+    },
+    {
+        "name": "Tehuana Oaxacan",
+        "address": "5916 N Greeley Ave, Portland, OR 97217",
+        "latitude": 45.5659228,
+        "longitude": -122.695441
+    },
+    {
+        "name": "Westmoreland Liquor",
+        "address": "7207 SE Milwaukie Ave, Portland, OR 97202",
+        "latitude": 45.4720941,
+        "longitude": -122.6488144
+    },
+    {
+        "name": "Picone's Quality Deli",
+        "address": "5215 N Lombard St, Portland, OR 97203",
+        "latitude": 45.5819778,
+        "longitude": -122.7218063
+    },
+    {
+        "name": "White Elephant Asian Fusion",
+        "address": "4233 N Mississippi Ave, Portland, OR 97217",
+        "latitude": 45.5543507,
+        "longitude": -122.6757371
+    },
+    {
+        "name": "Rose City Taps And Rose\u2019",
+        "address": "3505 N Mississippi Ave, Portland, OR 97227",
+        "latitude": 45.5479952,
+        "longitude": -122.6757843
+    },
+    {
+        "name": "Chubby Bunny",
+        "address": "1027 NE Alberta St, Portland, OR 97211",
+        "latitude": 45.5591752,
+        "longitude": -122.6548461
+    },
+    {
+        "name": "La Naranja",
+        "address": "1080 SE Madison St, Portland, OR 97214",
+        "latitude": 45.5127611,
+        "longitude": -122.6553141
+    },
+    {
+        "name": "The Good & Evil Wrap Co.",
+        "address": "11301 SE 21st Ave, Milwaukie, OR 97222",
+        "latitude": 45.44107109999999,
+        "longitude": -122.6397616
+    },
+    {
+        "name": "Vault 31 Bar",
+        "address": "316 SE 123rd Ave D4, Vancouver, WA 98683",
+        "latitude": 45.6193515,
+        "longitude": -122.5470103
+    },
+    {
+        "name": "Cookie McCakeFace",
+        "address": "770 W Burnside St, Portland, OR 97205",
+        "latitude": 45.522779,
+        "longitude": -122.678766
+    },
+    {
+        "name": "Little Bloom Lao and Thai Cuisine",
+        "address": "3505 N Mississippi Ave, Portland, OR 97227",
+        "latitude": 45.5479952,
+        "longitude": -122.6757843
+    },
+    {
+        "name": "Marvelous Subs and Sandwiches",
+        "address": "12675 SW 1st St, Beaverton, OR 97005",
+        "latitude": 45.4867061,
+        "longitude": -122.8069168
+    },
+    {
+        "name": "Spoons on 13th",
+        "address": "7875 SE 13th Ave, Portland, OR 97202",
+        "latitude": 45.4674832,
+        "longitude": -122.6532781
+    },
+    {
+        "name": "Rachel & Rose",
+        "address": "770 W Burnside St, Portland, OR 97205",
+        "latitude": 45.522779,
+        "longitude": -122.678766
+    },
+    {
+        "name": "Bottles & Cans",
+        "address": "5916 N Greeley Ave, Portland, OR 97217",
+        "latitude": 45.5659228,
+        "longitude": -122.695441
+    },
+    {
+        "name": "Phat Cart",
+        "address": "420 SW College St, Portland, OR 97201",
+        "latitude": 45.5092083,
+        "longitude": -122.6822386
+    },
+    {
+        "name": "CoKiea's Kitchen",
+        "address": "Rose City Food Park, 5235 NE Sandy Blvd, Portland, OR 97213",
+        "latitude": 45.54051399999999,
+        "longitude": -122.609353
+    },
+    {
+        "name": "El Salto PDX",
+        "address": "4255 SE Belmont St, Portland, OR 97215",
+        "latitude": 45.5167931,
+        "longitude": -122.6183744
+    },
+    {
+        "name": "Walter French's",
+        "address": "1027 NE Alberta St, Portland, OR 97211",
+        "latitude": 45.5591752,
+        "longitude": -122.6548461
+    },
+    {
+        "name": "Schmunch Burger",
+        "address": "7151 NE Prescott St, Portland, OR 97218",
+        "latitude": 45.5552787,
+        "longitude": -122.5899935
+    },
+    {
+        "name": "Patricia Reser Center for the Arts",
+        "address": "12625 SW Crescent St, Beaverton, OR 97005",
+        "latitude": 45.4913489,
+        "longitude": -122.807171
+    },
+    {
+        "name": "Benchmark PDX",
+        "address": "2280 NW Lovejoy St, Portland, OR 97210",
+        "latitude": 45.52963099999999,
+        "longitude": -122.698301
+    },
+    {
+        "name": "Portland Syrups",
+        "address": "2025 SE 11th Ave Portland, OR 97214",
+        "latitude": 45.5081533,
+        "longitude": -122.6550779
+    },
+    {
+        "name": "Lionheart Coffee Company",
+        "address": "4590 SW Watson Ave, Beaverton, OR 97005",
+        "latitude": 45.4864977,
+        "longitude": -122.8059829
+    },
+    {
+        "name": "Artists Repertory Theatre",
+        "address": "1515 SW Morrison St, Portland, OR 97205",
+        "latitude": 45.5216901,
+        "longitude": -122.6875609
+    },
+    {
+        "name": "Bicho's",
+        "address": "3917 N Mississippi Ave, Portland, OR 97227",
+        "latitude": 45.5511639,
+        "longitude": -122.6758423
+    },
+    {
+        "name": "PDX D\u00f6nerl\u00e4nd",
+        "address": "625 NE Killingsworth St, Portland, OR 97211",
+        "latitude": 45.5629738,
+        "longitude": -122.6591288
+    },
+    {
+        "name": "Daily Fuel",
+        "address": "3342 SE Belmont St, Portland, OR 97214",
+        "latitude": 45.5163133,
+        "longitude": -122.6300088
+    },
+    {
+        "name": "Curious Comedy Theater",
+        "address": "5225 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+        "latitude": 45.5610515,
+        "longitude": -122.6617268
+    },
+    {
+        "name": "The Siren Theater",
+        "address": "3913 N Mississippi Ave, Portland, OR 97227",
+        "latitude": 45.5510971,
+        "longitude": -122.675653
+    }
+]
