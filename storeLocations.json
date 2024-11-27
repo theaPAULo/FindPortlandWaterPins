@@ -227,8 +227,8 @@
         "name": "The Bidwell Marriott Portland",
         "address": "520 SW Broadway, Portland, OR 97205",
         "type": "Hotel",
-        "latitude": 45.5205294,
-        "longitude": -122.6788213
+        "latitude": 45.5205263,
+        "longitude": -122.6788098
     },
     {
         "name": "Hearth",
@@ -572,5 +572,26 @@
         "type": "Hotel",
         "latitude": 45.5314993,
         "longitude": -122.693422
+    },
+    {
+        "name": "Best Western Plus Portland Airport Hotel & Suites",
+        "address": "11938 NE Airport Way, Portland, OR 97220",
+        "type": "Hotel",
+        "latitude": 45.5663278,
+        "longitude": -122.5400769
+    },
+    {
+        "name": "SpringHill Suites Portland Airport",
+        "address": "11922 NE Airport Way, Portland, OR 97220",
+        "type": "Hotel",
+        "latitude": 45.5663254,
+        "longitude": -122.5405727
+    },
+    {
+        "name": "The Heathman Lodge",
+        "address": "7801 NE Greenwood Dr, Vancouver, WA 98662",
+        "type": "Hotel",
+        "latitude": 45.6533064,
+        "longitude": -122.5920084
     }
 ]
