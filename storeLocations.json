@@ -607,5 +607,26 @@
         "type": "Hotel",
         "latitude": 45.5644813,
         "longitude": -122.6299282
+    },
+    {
+        "name": "Mayfly",
+        "address": "8350 N Fenwick Ave, Portland, OR 97217",
+        "type": "Bar",
+        "latitude": 45.5835876,
+        "longitude": -122.6846503
+    },
+    {
+        "name": "Embassy Suites by Hilton Portland Downtown",
+        "address": "319 SW Pine St, Portland, OR 97204",
+        "type": "Hotel",
+        "latitude": 45.5220707,
+        "longitude": -122.6740251
+    },
+    {
+        "name": "QuarterWorld Arcade",
+        "address": "4811 SE Hawthorne Blvd, Portland, OR 97215",
+        "type": "Arcade",
+        "latitude": 45.5122586,
+        "longitude": -122.6127748
     }
 ]
