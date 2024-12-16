@@ -628,5 +628,26 @@
         "type": "Arcade",
         "latitude": 45.5122586,
         "longitude": -122.6127748
+    },
+    {
+        "name": "Park Avenue West Apartments",
+        "address": "750 SW 9th Ave., Portland, OR 97205",
+        "type": "Apartment",
+        "latitude": 45.5194058,
+        "longitude": -122.6810919
+    },
+    {
+        "name": "11th Avenue Liquor",
+        "address": "1601 SE 11th Ave, Portland, OR 97214",
+        "type": "Liquor Store",
+        "latitude": 45.5113705,
+        "longitude": -122.6548727
+    },
+    {
+        "name": "Revere",
+        "address": "3309 N Mississippi Ave, Portland, OR 97227",
+        "type": "Apartment",
+        "latitude": 45.54729709999999,
+        "longitude": -122.6762821
     }
 ]
