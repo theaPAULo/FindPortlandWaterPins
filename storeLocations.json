@@ -584,8 +584,8 @@
         "name": "SpringHill Suites Portland Airport",
         "address": "11922 NE Airport Way, Portland, OR 97220",
         "type": "Hotel",
-        "latitude": 45.5663254,
-        "longitude": -122.5405727
+        "latitude": 45.5663973,
+        "longitude": -122.5405678
     },
     {
         "name": "The Heathman Lodge",
@@ -656,5 +656,61 @@
         "type": "Clothing",
         "latitude": 45.4964834,
         "longitude": -122.6537086
+    },
+    {
+        "name": "Marcos the Barber",
+        "address": "915 NW 14th Ave, Portland, OR 97209",
+        "type": "Barber",
+        "latitude": 45.5295795,
+        "longitude": -122.6855396
+    },
+    {
+        "name": "Hotel Vintage",
+        "address": "422 SW Broadway, Portland, OR 97205",
+        "type": "Hotel",
+        "latitude": 45.5209134,
+        "longitude": -122.6785378
+    },
+    {
+        "name": "Portland Axe Throwing",
+        "address": "8409 N Lombard St, Portland, OR 97203",
+        "type": "Recreation Center",
+        "latitude": 45.5898052,
+        "longitude": -122.7532069
+    },
+    {
+        "name": "Southwest Smoke & Vape",
+        "address": "4422 S Corbett Ave, Portland, OR 97239",
+        "type": "Shop",
+        "latitude": 45.4912888,
+        "longitude": -122.6760688
+    },
+    {
+        "name": "Greenleaf Juice",
+        "address": "617 SW Morrison Portland, OR 97205",
+        "type": "Juice Bar",
+        "latitude": 45.51934199999999,
+        "longitude": -122.678893
+    },
+    {
+        "name": "Greenleaf Juice",
+        "address": "810 NW 12th Ave. Portland, OR 97209",
+        "type": "Juice Bar",
+        "latitude": 45.5288202,
+        "longitude": -122.6831445
+    },
+    {
+        "name": "Chromacore",
+        "address": "2055 NW Savier St, Portland, OR 97209",
+        "type": "Fitness Studio",
+        "latitude": 45.5351604,
+        "longitude": -122.6939216
+    },
+    {
+        "name": "Dossier Hotel",
+        "address": "750 SW Alder St, Portland, OR 97205",
+        "type": "Hotel",
+        "latitude": 45.5200916,
+        "longitude": -122.6800689
     }
 ]
