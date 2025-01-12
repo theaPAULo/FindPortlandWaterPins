@@ -712,5 +712,19 @@
         "type": "Hotel",
         "latitude": 45.5200916,
         "longitude": -122.6800689
+    },
+    {
+        "name": "The Record Pub",
+        "address": "6034 SE Milwaukie Ave, Portland, OR 97202",
+        "type": "Bar",
+        "latitude": 45.4788518,
+        "longitude": -122.649119
+    },
+    {
+        "name": "Hoyt Arboretum",
+        "address": "4000 SW Fairview Blvd, Portland, OR 97205",
+        "type": "Park",
+        "latitude": 45.5156806,
+        "longitude": -122.7156343
     }
 ]
