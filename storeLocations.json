@@ -726,5 +726,26 @@
         "type": "Park",
         "latitude": 45.5156806,
         "longitude": -122.7156343
+    },
+    {
+        "name": "Blue Star Donuts",
+        "address": "Portland International Airport North Lobby (Concourse D/E Post-Security, 7000 NE Airport Way, Portland, OR 97218",
+        "type": "Donut Shop",
+        "latitude": 45.5852698,
+        "longitude": -122.5917184
+    },
+    {
+        "name": "Portland Japanese Garden",
+        "address": "611 SW Kingston Ave, Portland, OR 97205",
+        "type": "Garden",
+        "latitude": 45.5194138,
+        "longitude": -122.7070458
+    },
+    {
+        "name": "The Wagon",
+        "address": "3518 SW Multnomah Blvd, Portland, OR 97219",
+        "type": "Food Truck",
+        "latitude": 45.4669889,
+        "longitude": -122.7132533
     }
 ]
