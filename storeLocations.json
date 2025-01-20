@@ -747,12 +747,5 @@
     "latitude": 45.4669889,
     "longitude": -122.7132533,
     "type": "Food Truck"
-  },
-  {
-    "name": "Screen Door Eastside",
-    "address": "2337 E Burnside St, Portland, OR 97214",
-    "latitude": 45.5230858,
-    "longitude": -122.64168,
-    "type": "Restaurant"
   }
 ]
