@@ -747,5 +747,12 @@
     "latitude": 45.4669889,
     "longitude": -122.7132533,
     "type": "Food Truck"
+  },
+  {
+    "name": "Embassy Suites by Hilton Portland Tigard",
+    "address": "9000 SW Washington Square Rd, Tigard, OR 97223",
+    "latitude": 45.455536,
+    "longitude": -122.7814459,
+    "type": "Hotel"
   }
 ]
