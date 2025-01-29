@@ -754,5 +754,12 @@
     "latitude": 45.455536,
     "longitude": -122.7814459,
     "type": "Hotel"
+  },
+  {
+    "name": "Chevron Troutdale",
+    "address": "1260 NW Frontage Rd, Troutdale, OR 97060",
+    "latitude": 45.5437061,
+    "longitude": -122.3998539,
+    "type": "Gas Station"
   }
 ]
