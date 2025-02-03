@@ -782,5 +782,12 @@
     "latitude": 45.5270048,
     "longitude": -122.6840809,
     "type": "Clothing"
+  },
+  {
+    "name": "pre'vok",
+    "address": "\n3619 SE Milwaukie Ave, Portland, OR 97202",
+    "latitude": 45.4964834,
+    "longitude": -122.6537086,
+    "type": "Clothing"
   }
 ]
