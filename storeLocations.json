@@ -789,5 +789,12 @@
     "latitude": 45.4964834,
     "longitude": -122.6537086,
     "type": "Clothing"
+  },
+  {
+    "name": "AC Hotel Portland Beaverton",
+    "address": "15705 NW Blueridge Dr Beaverton, OR 97006",
+    "latitude": 45.5258954,
+    "longitude": -122.8387492,
+    "type": "Hotel"
   }
 ]
