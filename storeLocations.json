@@ -771,17 +771,17 @@
   },
   {
     "name": "Two Zone Chicken",
-    "address": "1200 NW 18th Ave, Portland, OR 97209",
-    "latitude": 45.53151709999999,
-    "longitude": -122.6893312,
+    "address": "111 N Failing St, Portland, OR 97227",
+    "latitude": 45.5509006,
+    "longitude": -122.6674303,
     "type": "Restaurant"
   },
   {
-    "name": "Filson",
-    "address": "526 NW 13th Ave, Portland, OR 97209",
-    "latitude": 45.5270048,
-    "longitude": -122.6840809,
-    "type": "Clothing"
+    "name": "AC Hotel Portland Beaverton",
+    "address": "15705 NW Blueridge Dr Beaverton, OR 97006",
+    "latitude": 45.5258954,
+    "longitude": -122.8387492,
+    "type": "Hotel"
   },
   {
     "name": "pre'vok",
@@ -791,10 +791,10 @@
     "type": "Clothing"
   },
   {
-    "name": "AC Hotel Portland Beaverton",
-    "address": "15705 NW Blueridge Dr Beaverton, OR 97006",
-    "latitude": 45.5258954,
-    "longitude": -122.8387492,
-    "type": "Hotel"
+    "name": "Filson",
+    "address": "526 NW 13th Ave, Portland, OR 97209",
+    "latitude": 45.5270048,
+    "longitude": -122.6840809,
+    "type": "Clothing"
   }
 ]
