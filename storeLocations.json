@@ -796,5 +796,12 @@
     "latitude": 45.5270048,
     "longitude": -122.6840809,
     "type": "Clothing"
+  },
+  {
+    "name": "Canopy by Hilton Portland Pearl District",
+    "address": "425 NW 9th Ave, Portland, OR 97209",
+    "latitude": 45.52628439999999,
+    "longitude": -122.6804957,
+    "type": "Hotel"
   }
 ]
