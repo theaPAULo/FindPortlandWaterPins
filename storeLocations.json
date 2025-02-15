@@ -810,5 +810,12 @@
     "latitude": 45.5206155,
     "longitude": -122.6809649,
     "type": "Restaurant"
+  },
+  {
+    "name": "Memento Mori Cafe",
+    "address": "1533 Northwest 24th Ave Suite 100 Portland, Oregon 97210",
+    "latitude": 45.5338699,
+    "longitude": -122.7011,
+    "type": "Cafe"
   }
 ]
