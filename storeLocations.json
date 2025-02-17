@@ -824,5 +824,12 @@
     "latitude": 45.5208733,
     "longitude": -122.6820145,
     "type": "Hotel"
+  },
+  {
+    "name": "Porsche Studio",
+    "address": "1432 NW Johnson St, Portland, OR 97209",
+    "latitude": 45.528409,
+    "longitude": -122.6859186,
+    "type": "Venue"
   }
 ]
