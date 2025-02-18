@@ -831,5 +831,12 @@
     "latitude": 45.528409,
     "longitude": -122.6859186,
     "type": "Venue"
+  },
+  {
+    "name": "Holiday Inn Portland Columbia Riverfront",
+    "address": "909 N Hayden Island Dr, Portland, OR 97217",
+    "latitude": 45.6127926,
+    "longitude": -122.6753994,
+    "type": "Hotel"
   }
 ]
