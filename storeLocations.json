@@ -838,5 +838,12 @@
     "latitude": 45.6127926,
     "longitude": -122.6753994,
     "type": "Hotel"
+  },
+  {
+    "name": "Woodlark Hotel Portland",
+    "address": "813 SW Alder St, Portland, OR 97205",
+    "latitude": 45.5204205,
+    "longitude": -122.6803426,
+    "type": "Hotel"
   }
 ]
