@@ -866,5 +866,26 @@
     "latitude": 45.5476245,
     "longitude": -122.6744316,
     "type": "Cafe"
+  },
+  {
+    "name": "Market of Choice (Belmont)",
+    "address": "1090 SE Belmont St, Portland, OR 97214",
+    "latitude": 45.51636209999999,
+    "longitude": -122.6549136,
+    "type": ""
+  },
+  {
+    "name": "Market of Choice (West Linn)",
+    "address": "5639 Hood St, West Linn, OR 97068",
+    "latitude": 45.3666703,
+    "longitude": -122.6117324,
+    "type": ""
+  },
+  {
+    "name": "Market of Choice (Cedar Mill)",
+    "address": "250 NW Lost Springs Terrace, Portland, OR 97229",
+    "latitude": 45.5206313,
+    "longitude": -122.8015698,
+    "type": ""
   }
 ]
