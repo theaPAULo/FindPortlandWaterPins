@@ -872,21 +872,21 @@
     "address": "1090 SE Belmont St, Portland, OR 97214",
     "latitude": 45.51636209999999,
     "longitude": -122.6549136,
-    "type": ""
+    "type": "Grocery"
   },
   {
     "name": "Market of Choice (West Linn)",
     "address": "5639 Hood St, West Linn, OR 97068",
     "latitude": 45.3666703,
     "longitude": -122.6117324,
-    "type": ""
+    "type": "Grocery"
   },
   {
     "name": "Market of Choice (Cedar Mill)",
     "address": "250 NW Lost Springs Terrace, Portland, OR 97229",
     "latitude": 45.5206313,
     "longitude": -122.8015698,
-    "type": ""
+    "type": "Grocery"
   },
   {
     "name": "Daisi and Compani",
@@ -894,5 +894,12 @@
     "latitude": 45.5837118,
     "longitude": -122.3697977,
     "type": "Event Coordinator"
+  },
+  {
+    "name": "Guilder East",
+    "address": "2393 NE Fremont St Suite B, Portland, OR 97212",
+    "latitude": 45.5483335,
+    "longitude": -122.6413438,
+    "type": "Cafe"
   }
 ]
