@@ -887,5 +887,12 @@
     "latitude": 45.5206313,
     "longitude": -122.8015698,
     "type": ""
+  },
+  {
+    "name": "Daisi and Compani",
+    "address": "106 SE Weir St Camas, WA 98607",
+    "latitude": 45.5837118,
+    "longitude": -122.3697977,
+    "type": "Event Coordinator"
   }
 ]
