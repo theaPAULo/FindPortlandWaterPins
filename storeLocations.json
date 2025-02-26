@@ -901,5 +901,12 @@
     "latitude": 45.5123066,
     "longitude": -122.6261363,
     "type": "Cafe"
+  },
+  {
+    "name": "Pizza Thief",
+    "address": "2610 NW Vaughn St, Portland, OR 97210",
+    "latitude": 45.5366776,
+    "longitude": -122.7052799,
+    "type": "Restaurant"
   }
 ]
