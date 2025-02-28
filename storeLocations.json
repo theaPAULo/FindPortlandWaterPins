@@ -908,5 +908,19 @@
     "latitude": 45.5366776,
     "longitude": -122.7052799,
     "type": "Restaurant"
+  },
+  {
+    "name": "Elevate",
+    "address": "Elevate",
+    "latitude": "",
+    "longitude": "",
+    "type": "Bar"
+  },
+  {
+    "name": "The Paramount Hotel Portland",
+    "address": "808 SW Taylor St, Portland, OR 97205",
+    "latitude": 45.5181604,
+    "longitude": -122.6816695,
+    "type": "Hotel"
   }
 ]
