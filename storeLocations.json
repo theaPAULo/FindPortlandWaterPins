@@ -924,10 +924,17 @@
     "type": "Hotel"
   },
   {
-    "name": " Harper & Gracie's Mobile Drinkeries",
-    "address": "3607 T Street\nVancouver, WA 98663",
+    "name": "Harper & Gracie's Mobile Drinkeries",
+    "address": "3607 T Street, Vancouver, WA 98663",
     "latitude": 45.6475801,
     "longitude": -122.6502107,
     "type": "Event Coordinator"
+  },
+  {
+    "name": "LaChona Empanadas y Vinos Argentinos",
+    "address": "12535 NW Cornell Rd Suite 104 Suite 104, Portland, OR 97229",
+    "latitude": 45.52623140000001,
+    "longitude": -122.8057044,
+    "type": "Restaurant"
   }
 ]
