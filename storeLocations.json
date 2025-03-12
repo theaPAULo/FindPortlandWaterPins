@@ -943,5 +943,12 @@
     "latitude": 45.5103596,
     "longitude": -122.6738479,
     "type": "Restaurant"
+  },
+  {
+    "name": "Blends Juice Bar",
+    "address": "126 SW 2nd Ave, Portland, OR 97204",
+    "latitude": 45.5214547,
+    "longitude": -122.6723355,
+    "type": "Juice Bar"
   }
 ]
