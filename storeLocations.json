@@ -964,5 +964,12 @@
     "latitude": 45.5363122,
     "longitude": -122.7050449,
     "type": "Fitness Studio"
+  },
+  {
+    "name": "Ice Queen",
+    "address": "2012 SE 11th Ave, Portland, OR 97214, United States",
+    "latitude": 45.508409,
+    "longitude": -122.6544966,
+    "type": "Restaurant"
   }
 ]
