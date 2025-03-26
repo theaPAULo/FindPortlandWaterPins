@@ -971,5 +971,12 @@
     "latitude": 45.508409,
     "longitude": -122.6544966,
     "type": "Restaurant"
+  },
+  {
+    "name": "Matt's BBQ",
+    "address": "4233 N Mississippi Ave, Portland, OR 97217",
+    "latitude": 45.5543507,
+    "longitude": -122.6757371,
+    "type": "Restaurant"
   }
 ]
