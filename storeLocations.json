@@ -985,5 +985,12 @@
     "latitude": 45.4795544,
     "longitude": -122.6138406,
     "type": "Restaurant"
+  },
+  {
+    "name": "Sheraton Portland Airport Hotel",
+    "address": "8235 NE Airport Way Portland, OR 97220",
+    "latitude": 45.5828327,
+    "longitude": -122.5759734,
+    "type": "Hotel"
   }
 ]
