@@ -84,13 +84,6 @@
     "type": "Restaurant"
   },
   {
-    "name": "Maria Latina",
-    "address": "7100 SW Hampton St, Tigard, OR 97223",
-    "latitude": 45.4272921,
-    "longitude": -122.7507769,
-    "type": "Restaurant"
-  },
-  {
     "name": "Cultured Kindness Vegan Cheese Shop",
     "address": "1217 SE Stark St, Portland, OR 97214",
     "latitude": 45.519498,
@@ -998,6 +991,13 @@
     "address": "5013 NE 42nd Ave, Portland, OR 97218",
     "latitude": 45.5592861,
     "longitude": -122.6205939,
+    "type": "Restaurant"
+  },
+  {
+    "name": "Addy's Sandwich Bar",
+    "address": "911 SW 10th Ave, Portland, OR 97205",
+    "latitude": 45.5185693,
+    "longitude": -122.6830672,
     "type": "Restaurant"
   }
 ]
