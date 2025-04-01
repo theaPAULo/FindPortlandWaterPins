@@ -999,5 +999,40 @@
     "latitude": 45.5185693,
     "longitude": -122.6830672,
     "type": "Restaurant"
+  },
+  {
+    "name": "The Great North",
+    "address": "2909 NE Alberta St Portland, OR 97211",
+    "latitude": 45.5592099,
+    "longitude": -122.6355731,
+    "type": "Cafe"
+  },
+  {
+    "name": "The Great North",
+    "address": "1951 W Burnside St Portland, OR 97209",
+    "latitude": 45.5231634,
+    "longitude": -122.6914224,
+    "type": "Cafe"
+  },
+  {
+    "name": "The Great North",
+    "address": "7373 N Burlington Ave Portland, OR 97203",
+    "latitude": 45.5904646,
+    "longitude": -122.7547841,
+    "type": "Cafe"
+  },
+  {
+    "name": "The Great North",
+    "address": "602 N Devine Rd Vancouver, WA 98661",
+    "latitude": 45.6246579,
+    "longitude": -122.6141815,
+    "type": "Cafe"
+  },
+  {
+    "name": "Lovejoy Bakers",
+    "address": "939 NW 10th Ave. Portland, OR 97209",
+    "latitude": 45.5296533,
+    "longitude": -122.6815906,
+    "type": "Bakery"
   }
 ]
