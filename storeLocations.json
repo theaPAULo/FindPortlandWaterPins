@@ -1034,5 +1034,12 @@
     "latitude": 45.5296533,
     "longitude": -122.6815906,
     "type": "Bakery"
+  },
+  {
+    "name": "Picadrip",
+    "address": "7445 SE 72nd Ave, Portland, OR 97206",
+    "latitude": 45.4693148,
+    "longitude": -122.5897173,
+    "type": "Food Truck"
   }
 ]
