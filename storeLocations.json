@@ -1041,5 +1041,12 @@
     "latitude": 45.4693148,
     "longitude": -122.5897173,
     "type": "Food Truck"
+  },
+  {
+    "name": "Market of Choice (Reed?s Crossing)",
+    "address": "3515 SE Cornelius Pass Road Hillsboro, Oregon  97123",
+    "latitude": 45.4943481,
+    "longitude": -122.9020255,
+    "type": "Grocery"
   }
 ]
