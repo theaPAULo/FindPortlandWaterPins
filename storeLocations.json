@@ -1048,5 +1048,12 @@
     "latitude": 45.4943481,
     "longitude": -122.9020255,
     "type": "Grocery"
+  },
+  {
+    "name": "Hilton Garden Inn Portland/Lake Oswego",
+    "address": "14850 Kruse Oaks Dr Lake Oswego, OR 97035",
+    "latitude": 45.4182151,
+    "longitude": -122.7393431,
+    "type": "Hotel"
   }
 ]
