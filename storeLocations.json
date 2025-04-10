@@ -1055,5 +1055,12 @@
     "latitude": 45.4182151,
     "longitude": -122.7393431,
     "type": "Hotel"
+  },
+  {
+    "name": "Symphony Coffeehouse",
+    "address": "16155 NW Cornell Rd #500, Beaverton, OR 97006",
+    "latitude": 45.5308602,
+    "longitude": -122.8437052,
+    "type": "Cafe"
   }
 ]
