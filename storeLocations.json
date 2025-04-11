@@ -1069,5 +1069,12 @@
     "latitude": 45.5202827,
     "longitude": -122.6750329,
     "type": "Hotel"
+  },
+  {
+    "name": "NW Builders and Renovation",
+    "address": "6807 NE 79th Ct #D Portland, Oregon 97218",
+    "latitude": 45.5724949,
+    "longitude": -122.5816473,
+    "type": "Construction"
   }
 ]
