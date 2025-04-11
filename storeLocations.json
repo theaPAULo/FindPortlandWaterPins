@@ -1062,5 +1062,12 @@
     "latitude": 45.5308602,
     "longitude": -122.8437052,
     "type": "Cafe"
+  },
+  {
+    "name": "Hi-Lo Hotel",
+    "address": "320 SW Harvey Milk St, Portland, OR 97204",
+    "latitude": 45.5202827,
+    "longitude": -122.6750329,
+    "type": "Hotel"
   }
 ]
