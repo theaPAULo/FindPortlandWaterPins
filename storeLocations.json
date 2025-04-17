@@ -1090,5 +1090,19 @@
     "latitude": 45.52790299999999,
     "longitude": -122.6983196,
     "type": "Cafe"
+  },
+  {
+    "name": "Prosper Portland",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "type": "Office"
+  },
+  {
+    "name": "Elephants Delicatessen",
+    "address": "812 SW Park Avenue, Portland, OR 97205",
+    "latitude": 45.5187535,
+    "longitude": -122.6809393,
+    "type": "Restaurant"
   }
 ]
