@@ -1104,5 +1104,12 @@
     "latitude": 45.5187535,
     "longitude": -122.6809393,
     "type": "Restaurant"
+  },
+  {
+    "name": "Can Bar",
+    "address": "2225 E Burnside St, Portland, OR 97214",
+    "latitude": 45.5231357,
+    "longitude": -122.6428073,
+    "type": "Bar"
   }
 ]
