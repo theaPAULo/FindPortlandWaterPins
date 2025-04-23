@@ -1118,5 +1118,12 @@
     "latitude": 45.5284884,
     "longitude": -122.6589763,
     "type": "Catering"
+  },
+  {
+    "name": "Elephants Delicatessen (Lake Oswego)",
+    "address": "3970 Mercantile DrLake Oswego, OR 97035",
+    "latitude": 45.4142129,
+    "longitude": -122.7175612,
+    "type": "Restaurant"
   }
 ]
