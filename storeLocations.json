@@ -1141,10 +1141,17 @@
     "type": "Hotel"
   },
   {
-    "name": "Flying Elephants (South Waterfront)",
+    "name": "Elephants Delicatessen (South Waterfront)",
     "address": "2730 S Moody Ave Portland Or, 97201",
     "latitude": 45.50320139999999,
     "longitude": -122.6718629,
     "type": "Restaurant"
+  },
+  {
+    "name": "Foodie Stash",
+    "address": "Portland, OR",
+    "latitude": 45.515232,
+    "longitude": -122.6783853,
+    "type": "Vending Machines"
   }
 ]
