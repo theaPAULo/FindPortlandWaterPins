@@ -1195,5 +1195,12 @@
     "latitude": 45.4852971,
     "longitude": -122.677115,
     "type": "Restaurant"
+  },
+  {
+    "name": "Novano Pizza",
+    "address": "110 W 6th St, Vancouver, WA 98660",
+    "latitude": 45.6258055,
+    "longitude": -122.6723416,
+    "type": "Restaurant"
   }
 ]
