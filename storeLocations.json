@@ -1202,5 +1202,12 @@
     "latitude": 45.6258055,
     "longitude": -122.6723416,
     "type": "Restaurant"
+  },
+  {
+    "name": "Hampton Inn & Suites Portland-Pearl District",
+    "address": "354 NW 9th Ave, Portland, OR 97209",
+    "latitude": 45.52552,
+    "longitude": -122.679802,
+    "type": "Hotel"
   }
 ]
