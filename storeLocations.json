@@ -1209,5 +1209,12 @@
     "latitude": 45.52552,
     "longitude": -122.679802,
     "type": "Hotel"
+  },
+  {
+    "name": "Hollywood Theatre",
+    "address": "4122 NE Sandy Blvd, Portland, OR 97212",
+    "latitude": 45.53543990000001,
+    "longitude": -122.620608,
+    "type": "Theatre"
   }
 ]
