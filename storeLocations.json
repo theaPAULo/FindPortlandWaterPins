@@ -1223,5 +1223,12 @@
     "latitude": 45.5623776,
     "longitude": -122.5800335,
     "type": "Cafe"
+  },
+  {
+    "name": "Tru by Hilton Aloha Beaverton",
+    "address": "17363 SW TV Hwy, Beaverton, OR, 97006",
+    "latitude": 45.4932592,
+    "longitude": -122.8558726,
+    "type": "Hotel"
   }
 ]
