@@ -1230,5 +1230,12 @@
     "latitude": 45.4932592,
     "longitude": -122.8558726,
     "type": "Hotel"
+  },
+  {
+    "name": "Elephants Delicatessen (World Trade Center)",
+    "address": "127 SW Salmon St, Portland, OR 97204",
+    "latitude": 45.5161634,
+    "longitude": -122.6752072,
+    "type": "Restaurant"
   }
 ]
