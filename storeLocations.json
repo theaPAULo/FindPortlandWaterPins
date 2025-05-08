@@ -1244,5 +1244,12 @@
     "latitude": 45.5335726,
     "longitude": -122.6964668,
     "type": "Yoga"
+  },
+  {
+    "name": "Tipsy Scoop",
+    "address": "3987 N Mississippi Ave, Portland, OR 97227",
+    "latitude": 45.551959,
+    "longitude": -122.675844,
+    "type": "Restaurant"
   }
 ]
