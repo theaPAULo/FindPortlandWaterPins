@@ -1265,5 +1265,12 @@
     "latitude": 45.4183212,
     "longitude": -122.6633409,
     "type": "Office"
+  },
+  {
+    "name": "Ni?os Birrieria",
+    "address": "7131 NE Prescott St, Portland, OR 97218",
+    "latitude": 45.5556618,
+    "longitude": -122.589638,
+    "type": "Restaurant"
   }
 ]
