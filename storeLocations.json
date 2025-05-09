@@ -1258,5 +1258,12 @@
     "latitude": 45.5118744,
     "longitude": -122.6844194,
     "type": "College"
+  },
+  {
+    "name": "Cascade Hasson Relocation",
+    "address": "310 North State Street Suite 102 Lake Oswego, OR 97034",
+    "latitude": 45.4183212,
+    "longitude": -122.6633409,
+    "type": "Office"
   }
 ]
