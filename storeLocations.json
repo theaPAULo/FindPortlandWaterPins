@@ -1279,5 +1279,12 @@
     "latitude": 45.515911,
     "longitude": -122.682432,
     "type": "Museum"
+  },
+  {
+    "name": "Harder Day Coffee",
+    "address": "1215 SE 8th Ave Unit G Portland, OR 97214",
+    "latitude": 45.51401440000001,
+    "longitude": -122.6580275,
+    "type": "Cafe"
   }
 ]
