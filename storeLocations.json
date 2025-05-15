@@ -1293,5 +1293,12 @@
     "latitude": 45.4684306,
     "longitude": -122.6575204,
     "type": "Tours"
+  },
+  {
+    "name": "Forage Local",
+    "address": "2833 NE Skidmore St Portland, OR 97211",
+    "latitude": 45.5545336,
+    "longitude": -122.6361515,
+    "type": "Grocery"
   }
 ]
