@@ -1300,5 +1300,12 @@
     "latitude": 45.5545336,
     "longitude": -122.6361515,
     "type": "Grocery"
+  },
+  {
+    "name": "Portland Marriott Downtown Waterfront",
+    "address": "1401 SW Naito Pkwy, Portland, OR 97201",
+    "latitude": 45.5126103,
+    "longitude": -122.6757182,
+    "type": "Hotel"
   }
 ]
