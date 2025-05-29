@@ -1328,5 +1328,12 @@
     "latitude": 45.5286327,
     "longitude": -122.8360651,
     "type": "Hotel"
+  },
+  {
+    "name": "Revolution Hall",
+    "address": "1300 SE Stark St. Suite #203 Portland, OR 97214",
+    "latitude": 45.5192045,
+    "longitude": -122.6519177,
+    "type": "Venue"
   }
 ]
