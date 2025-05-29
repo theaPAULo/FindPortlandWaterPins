@@ -1321,5 +1321,12 @@
     "latitude": 45.5614977,
     "longitude": -122.6609469,
     "type": "Non profit event "
+  },
+  {
+    "name": "Homewood Suites by Hilton Portland Airport",
+    "address": "11936 NE Glenn Widing Dr, Portland, OR 97220",
+    "latitude": 45.5684467,
+    "longitude": -122.5410278,
+    "type": "Hotel"
   }
 ]
