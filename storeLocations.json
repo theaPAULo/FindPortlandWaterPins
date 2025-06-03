@@ -1335,5 +1335,12 @@
     "latitude": 45.5192045,
     "longitude": -122.6519177,
     "type": "Venue"
+  },
+  {
+    "name": "Farmer and the Beast",
+    "address": "1845 NW 23rd Pl, Portland, OR 97210",
+    "latitude": 45.5362156,
+    "longitude": -122.7000932,
+    "type": "Restaurant"
   }
 ]
