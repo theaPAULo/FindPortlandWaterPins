@@ -1001,28 +1001,28 @@
     "type": "Restaurant"
   },
   {
-    "name": "The Great North",
+    "name": "The Great North (Alberta)",
     "address": "2909 NE Alberta St Portland, OR 97211",
     "latitude": 45.5592099,
     "longitude": -122.6355731,
     "type": "Cafe"
   },
   {
-    "name": "The Great North",
+    "name": "The Great North (Burnside)",
     "address": "1951 W Burnside St Portland, OR 97209",
     "latitude": 45.5231634,
     "longitude": -122.6914224,
     "type": "Cafe"
   },
   {
-    "name": "The Great North",
+    "name": "The Great North (St Johns)",
     "address": "7373 N Burlington Ave Portland, OR 97203",
     "latitude": 45.5904646,
     "longitude": -122.7547841,
     "type": "Cafe"
   },
   {
-    "name": "The Great North",
+    "name": "The Great North (Devine)",
     "address": "602 N Devine Rd Vancouver, WA 98661",
     "latitude": 45.6246579,
     "longitude": -122.6141815,
@@ -1099,7 +1099,7 @@
     "type": "Office"
   },
   {
-    "name": "Elephants Delicatessen",
+    "name": "Elephants Delicatessen (Fox Tower)",
     "address": "812 SW Park Avenue, Portland, OR 97205",
     "latitude": 45.5187535,
     "longitude": -122.6809393,
@@ -1316,11 +1316,11 @@
     "type": "Cafe"
   },
   {
-    "name": "Rose city jam",
+    "name": "Rose City Jam",
     "address": "5250 NE Martin Luther King Blvd\nPortland, OR 97211\nUnited States",
     "latitude": 45.5614977,
     "longitude": -122.6609469,
-    "type": "Non profit event "
+    "type": "Non Profit Event"
   },
   {
     "name": "Homewood Suites by Hilton Portland Airport",
