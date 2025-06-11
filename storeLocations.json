@@ -1349,5 +1349,12 @@
     "latitude": 45.4867061,
     "longitude": -122.8069168,
     "type": "Restaurant"
+  },
+  {
+    "name": "Portland Bangers",
+    "address": "8927 SE Holgate Blvd, Portland, Oregon 97266, US",
+    "latitude": 45.490236,
+    "longitude": -122.5707492,
+    "type": "Sports Team"
   }
 ]
