@@ -1363,5 +1363,12 @@
     "latitude": 45.9931636,
     "longitude": -123.9226385,
     "type": "Vacation Rentals"
+  },
+  {
+    "name": "Gustine Market",
+    "address": "3150 Gustine Ave, St. Louis, MO 63116",
+    "latitude": 38.6020146,
+    "longitude": -90.2495411,
+    "type": "Grocery"
   }
 ]
