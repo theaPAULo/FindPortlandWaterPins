@@ -1370,5 +1370,12 @@
     "latitude": 38.6020146,
     "longitude": -90.2495411,
     "type": "Grocery"
+  },
+  {
+    "name": "Edgefield Gift Shop",
+    "address": "2126 SW Halsey Troutdale, OR 97060",
+    "latitude": 45.53589969999999,
+    "longitude": -122.4072309,
+    "type": "Venue"
   }
 ]
