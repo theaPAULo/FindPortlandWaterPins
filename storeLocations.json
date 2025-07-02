@@ -1398,5 +1398,19 @@
     "latitude": 45.5122276,
     "longitude": -122.6138822,
     "type": "Juice Bar"
+  },
+  {
+    "name": "Vanport Jazz Festival",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "type": "Event"
+  },
+  {
+    "name": "Rosey's",
+    "address": "7916 N. Emerald Ave Portland, OR 97217",
+    "latitude": 45.5808668,
+    "longitude": -122.6996616,
+    "type": "Food Truck"
   }
 ]
