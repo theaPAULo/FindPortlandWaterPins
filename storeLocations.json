@@ -1419,5 +1419,12 @@
     "latitude": 45.5084339,
     "longitude": -122.6576266,
     "type": "Venue"
+  },
+  {
+    "name": "For Good and Company",
+    "address": "6360 NE Martin Luther King Jr Blvd, Portland, OR 97211",
+    "latitude": 45.5684891,
+    "longitude": -122.6610053,
+    "type": "Venue"
   }
 ]
