@@ -1433,5 +1433,12 @@
     "latitude": 45.5548782,
     "longitude": -122.6669012,
     "type": "Restaurant"
+  },
+  {
+    "name": "Everywhere Beer",
+    "address": "920A SE Caruthers St, Portland, OR 97214",
+    "latitude": 45.5055551,
+    "longitude": -122.6564445,
+    "type": "Bar"
   }
 ]
