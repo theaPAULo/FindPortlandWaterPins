@@ -1440,5 +1440,12 @@
     "latitude": 45.5055551,
     "longitude": -122.6564445,
     "type": "Bar"
+  },
+  {
+    "name": "Agrodolce Distilling Company",
+    "address": "2225 E Burnside St, Portland, OR 97214",
+    "latitude": 45.5231357,
+    "longitude": -122.6428073,
+    "type": "Bar"
   }
 ]
