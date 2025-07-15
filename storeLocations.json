@@ -1461,5 +1461,12 @@
     "latitude": 45.5339076,
     "longitude": -122.6013393,
     "type": "Food Truck"
+  },
+  {
+    "name": "La Arepa",
+    "address": "5716 SE 92nd Ave, Portland, OR 97266",
+    "latitude": 45.4810251,
+    "longitude": -122.5682163,
+    "type": "Food Truck"
   }
 ]
