@@ -1468,5 +1468,12 @@
     "latitude": 45.4810251,
     "longitude": -122.5682163,
     "type": "Food Truck"
+  },
+  {
+    "name": "The Clyde Hotel Portland by Kasa",
+    "address": "1022 SW Harvey Milk St, Portland, OR 97205",
+    "latitude": 45.522011,
+    "longitude": -122.681617,
+    "type": "Hotel"
   }
 ]
