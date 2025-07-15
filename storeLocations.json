@@ -1454,5 +1454,12 @@
     "latitude": 45.5339076,
     "longitude": -122.6013393,
     "type": "Food Truck"
+  },
+  {
+    "name": "La Arepa ",
+    "address": "6035 NE Halsey St, Portland, OR 97213",
+    "latitude": 45.5339076,
+    "longitude": -122.6013393,
+    "type": "Food Truck"
   }
 ]
