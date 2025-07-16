@@ -1475,5 +1475,12 @@
     "latitude": 45.522011,
     "longitude": -122.681617,
     "type": "Hotel"
+  },
+  {
+    "name": "World Forestry Center",
+    "address": "4033 SW Canyon Rd, Portland, OR 97221",
+    "latitude": 45.51082539999999,
+    "longitude": -122.7182921,
+    "type": "Museum"
   }
 ]
