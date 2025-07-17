@@ -1482,5 +1482,12 @@
     "latitude": 45.51082539999999,
     "longitude": -122.7182921,
     "type": "Museum"
+  },
+  {
+    "name": "Hotel Vance",
+    "address": "1455 SW Broadway, Portland, OR 97201",
+    "latitude": 45.5145858,
+    "longitude": -122.6824782,
+    "type": "Hotel"
   }
 ]
