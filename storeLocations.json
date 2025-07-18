@@ -371,7 +371,7 @@
     "type": "Food Truck"
   },
   {
-    "name": "Rose City Taps And Rose?",
+    "name": "Rose City Taps And Rose",
     "address": "3505 N Mississippi Ave, Portland, OR 97227",
     "latitude": 45.5479863,
     "longitude": -122.6756746,
@@ -637,13 +637,6 @@
     "type": "Apartment"
   },
   {
-    "name": "Provoke Apparel",
-    "address": "3619 SE Milwuakie Ave, Portland, OR 97202",
-    "latitude": 45.4964834,
-    "longitude": -122.6537086,
-    "type": "Clothing"
-  },
-  {
     "name": "Marcos the Barber",
     "address": "915 NW 14th Ave, Portland, OR 97209",
     "latitude": 45.5295795,
@@ -838,13 +831,6 @@
     "latitude": 45.5743572,
     "longitude": -122.5831839,
     "type": "Hotel"
-  },
-  {
-    "name": "QuarterWorld",
-    "address": "4811 SE Hawthorne Blvd, Portland, OR 97215",
-    "latitude": 45.5122586,
-    "longitude": -122.6127748,
-    "type": "Arcade"
   },
   {
     "name": "Brave Neighbor Coffeehouse & Social",
@@ -1267,7 +1253,7 @@
     "type": "Office"
   },
   {
-    "name": "Ni?os Birrieria",
+    "name": "Ninos Birrieria",
     "address": "7131 NE Prescott St, Portland, OR 97218",
     "latitude": 45.5556618,
     "longitude": -122.589638,
@@ -1393,7 +1379,7 @@
     "type": "Juice Bar"
   },
   {
-    "name": "Happy Day Juice Co.",
+    "name": "Happy Day Juice Co",
     "address": "4703 SE Hawthorne Blvd UNIT 200, Portland, OR 97215",
     "latitude": 45.5122276,
     "longitude": -122.6138822,
