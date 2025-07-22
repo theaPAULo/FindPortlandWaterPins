@@ -1482,5 +1482,12 @@
     "latitude": 45.4968557,
     "longitude": -122.6538647,
     "type": "Hair Braider"
+  },
+  {
+    "name": "45 Studio",
+    "address": "1100 SE Division St #110, Portland, OR 97202",
+    "latitude": 45.5047345,
+    "longitude": -122.654322,
+    "type": "Fitness Studio"
   }
 ]
