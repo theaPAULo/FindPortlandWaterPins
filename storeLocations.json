@@ -1489,5 +1489,12 @@
     "latitude": 45.5047345,
     "longitude": -122.654322,
     "type": "Fitness Studio"
+  },
+  {
+    "name": "The Bulgarian Job",
+    "address": "6035 NE Halsey St, Portland, OR 97213",
+    "latitude": 45.5339076,
+    "longitude": -122.6013393,
+    "type": "Food Truck"
   }
 ]
