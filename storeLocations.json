@@ -1496,5 +1496,12 @@
     "latitude": 45.5339076,
     "longitude": -122.6013393,
     "type": "Food Truck"
+  },
+  {
+    "name": "Reed College Bookstore",
+    "address": "3203 SE Woodstock Blvd, Portland, OR 97202",
+    "latitude": 45.4802392,
+    "longitude": -122.6285933,
+    "type": "Bookstore"
   }
 ]
