@@ -1503,5 +1503,12 @@
     "latitude": 45.4802392,
     "longitude": -122.6285933,
     "type": "Bookstore"
+  },
+  {
+    "name": "Burgerville",
+    "address": "109 W 17th St, Vancouver, WA 98660",
+    "latitude": 45.6337329,
+    "longitude": -122.6718877,
+    "type": "Restaurant"
   }
 ]
