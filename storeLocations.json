@@ -1510,5 +1510,19 @@
     "latitude": 45.6337329,
     "longitude": -122.6718877,
     "type": "Restaurant"
+  },
+  {
+    "name": "Liminal House ",
+    "address": "Liminal House ",
+    "latitude": "",
+    "longitude": "",
+    "type": "Venue"
+  },
+  {
+    "name": "Kyras Bake Shop",
+    "address": "Kyras Bake shop",
+    "latitude": 45.42024010000001,
+    "longitude": -122.6701466,
+    "type": "Shop"
   }
 ]
