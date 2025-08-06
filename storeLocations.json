@@ -1524,5 +1524,12 @@
     "latitude": 45.42024010000001,
     "longitude": -122.6701466,
     "type": "Shop"
+  },
+  {
+    "name": "Tonallis Doughnuts & Cream",
+    "address": "12321 NE fourth plain blvd Vancouver wa 98682",
+    "latitude": 45.6686694,
+    "longitude": -122.545215,
+    "type": "Donut Shop"
   }
 ]
