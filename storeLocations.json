@@ -1538,5 +1538,12 @@
     "latitude": 45.5544575,
     "longitude": -122.6758209,
     "type": "Food Truck"
+  },
+  {
+    "name": "Keia and Martyn?s Coffee shop",
+    "address": "Lloyd Center, Portland, OR 97232",
+    "latitude": 45.5316594,
+    "longitude": -122.6545964,
+    "type": "Cafe"
   }
 ]
