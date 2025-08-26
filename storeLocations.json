@@ -1545,5 +1545,12 @@
     "latitude": 45.5316594,
     "longitude": -122.6545964,
     "type": "Cafe"
+  },
+  {
+    "name": "Spielman on Lovejoy",
+    "address": "2314 NW Lovejoy St Portland, OR 97210",
+    "latitude": 45.5296172,
+    "longitude": -122.6990021,
+    "type": "Cafe"
   }
 ]
