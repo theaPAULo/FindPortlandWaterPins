@@ -1552,5 +1552,12 @@
     "latitude": 45.5296172,
     "longitude": -122.6990021,
     "type": "Cafe"
+  },
+  {
+    "name": "Market of Choice (Corvallis)",
+    "address": "Market of Choice (Corvallis)",
+    "latitude": 44.5880076,
+    "longitude": -123.2572545,
+    "type": "Grocery"
   }
 ]
