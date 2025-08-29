@@ -1559,5 +1559,12 @@
     "latitude": 44.5880076,
     "longitude": -123.2572545,
     "type": "Grocery"
+  },
+  {
+    "name": "Market of Choice (Corvallis)",
+    "address": "922 NW Circle Blvd Corvallis, OR 97330",
+    "latitude": 44.5882183,
+    "longitude": -123.2578289,
+    "type": "Grocery"
   }
 ]
