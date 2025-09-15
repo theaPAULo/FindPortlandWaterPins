@@ -1573,5 +1573,12 @@
     "latitude": 45.4190993,
     "longitude": -122.7416045,
     "type": "Hotel"
+  },
+  {
+    "name": "Bon Appetit",
+    "address": "3203 SE Woodstock Blvd, Portland, OR 97202",
+    "latitude": 45.4802392,
+    "longitude": -122.6285933,
+    "type": "Restaurant"
   }
 ]
