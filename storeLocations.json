@@ -1587,5 +1587,12 @@
     "latitude": 45.5353343,
     "longitude": -122.6373094,
     "type": "Donut Shop"
+  },
+  {
+    "name": "Hina?s Island Grindz",
+    "address": "11530 SW Pacific Hwy, Tigard, OR 97223",
+    "latitude": 45.4405653,
+    "longitude": -122.7486529,
+    "type": "Food Truck"
   }
 ]
