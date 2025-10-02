@@ -1594,5 +1594,12 @@
     "latitude": 45.4405653,
     "longitude": -122.7486529,
     "type": "Food Truck"
+  },
+  {
+    "name": "CYCLEBAR",
+    "address": "3460 N Williams Ave, Portland, OR 97227",
+    "latitude": 45.5477828,
+    "longitude": -122.6665011,
+    "type": "Fitness Studio"
   }
 ]
