@@ -1601,5 +1601,12 @@
     "latitude": 45.5372745,
     "longitude": -122.6881432,
     "type": "Cafe"
+  },
+  {
+    "name": "Sizzling Indian Kitchen",
+    "address": "12130 SE 82nd Ave h243, Happy Valley, OR 97086",
+    "latitude": 45.4341052,
+    "longitude": -122.5724036,
+    "type": "Restaurant"
   }
 ]
