@@ -1608,5 +1608,19 @@
     "latitude": 45.4341052,
     "longitude": -122.5724036,
     "type": "Restaurant"
+  },
+  {
+    "name": "Canary Marketing",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "type": "Shop"
+  },
+  {
+    "name": "Canary Marketing",
+    "address": "2250 NW 22nd Ave Suite 601 Portland, OR 97210",
+    "latitude": 45.5388799,
+    "longitude": -122.6964594,
+    "type": "Venue"
   }
 ]
