@@ -1622,5 +1622,12 @@
     "latitude": 45.5388799,
     "longitude": -122.6964594,
     "type": "Venue"
+  },
+  {
+    "name": "Alloy Personal Training",
+    "address": "2545 SW Cedar Hills Blvd Suite 105, Beaverton, OR 97005",
+    "latitude": 45.5015662,
+    "longitude": -122.807335,
+    "type": "Fitness Studio"
   }
 ]
