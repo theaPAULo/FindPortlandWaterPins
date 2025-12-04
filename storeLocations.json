@@ -865,7 +865,7 @@
     "address": "106 SE Weir St Camas, WA 98607",
     "latitude": 45.5837118,
     "longitude": -122.3697977,
-    "type": "Event Coordinator"
+    "type": "Events"
   },
   {
     "name": "Guilder East",
@@ -1306,7 +1306,7 @@
     "address": "5250 NE Martin Luther King Blvd\nPortland, OR 97211\nUnited States",
     "latitude": 45.5614977,
     "longitude": -122.6609469,
-    "type": "Non Profit Event"
+    "type": "Event"
   },
   {
     "name": "Homewood Suites by Hilton Portland Airport",
@@ -1611,13 +1611,6 @@
   },
   {
     "name": "Canary Marketing",
-    "address": "",
-    "latitude": "",
-    "longitude": "",
-    "type": "Shop"
-  },
-  {
-    "name": "Canary Marketing",
     "address": "2250 NW 22nd Ave Suite 601 Portland, OR 97210",
     "latitude": 45.5388799,
     "longitude": -122.6964594,
@@ -1629,5 +1622,12 @@
     "latitude": 45.5015662,
     "longitude": -122.807335,
     "type": "Fitness Studio"
+  },
+  {
+    "name": "Portland Night Market",
+    "address": "100 SE Alder St, Portland, OR 97214",
+    "latitude": 45.5177342,
+    "longitude": -122.6645095,
+    "type": "Market"
   }
 ]
