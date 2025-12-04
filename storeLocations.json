@@ -147,13 +147,6 @@
     "type": "Hotel"
   },
   {
-    "name": "The Dog House PDX",
-    "address": "5029 SE Division St, Portland, OR 97215",
-    "latitude": 45.5054551,
-    "longitude": -122.6103884,
-    "type": "Food Truck"
-  },
-  {
     "name": "Tacos Fita",
     "address": "701 SW 6th Ave, Portland, OR 97204",
     "latitude": 45.5185947,
