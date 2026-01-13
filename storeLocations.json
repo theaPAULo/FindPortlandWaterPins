@@ -1629,5 +1629,12 @@
     "latitude": 45.539263,
     "longitude": -122.6133463,
     "type": "Restaurant"
+  },
+  {
+    "name": "503 Shop",
+    "address": "17435 SW Farmington Rd e, Aloha, OR 97007",
+    "latitude": 45.4808529,
+    "longitude": -122.857914,
+    "type": "Shop"
   }
 ]
