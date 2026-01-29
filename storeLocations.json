@@ -1643,5 +1643,12 @@
     "latitude": 45.5477394,
     "longitude": -122.6758672,
     "type": "Cafe"
+  },
+  {
+    "name": "Matsunoki Ramen",
+    "address": "126 SW 2nd Ave, Portland, OR 97204",
+    "latitude": 45.5214547,
+    "longitude": -122.6723355,
+    "type": "Restaurant"
   }
 ]
