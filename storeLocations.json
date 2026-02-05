@@ -1650,5 +1650,12 @@
     "latitude": 45.5214547,
     "longitude": -122.6723355,
     "type": "Restaurant"
+  },
+  {
+    "name": "Raindrop Tap House",
+    "address": "4545 SW Angel Ave Ste 170, Beaverton, OR 97005",
+    "latitude": 45.48721099999999,
+    "longitude": -122.807962,
+    "type": "Bar"
   }
 ]
