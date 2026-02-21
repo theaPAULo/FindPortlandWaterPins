@@ -778,7 +778,7 @@
   },
   {
     "name": "Foodie Stash",
-    "address": "Portland, OR",
+    "address": "",
     "latitude": 45.515232,
     "longitude": -122.6783853,
     "type": "Vending Machines"
@@ -848,7 +848,7 @@
   },
   {
     "name": "girl next door espresso",
-    "address": "Girl Next Door Espresso",
+    "address": "8102 NE Killingsworth St, Portland, OR 97218",
     "latitude": 45.5623776,
     "longitude": -122.5800335,
     "type": "Cafe"
