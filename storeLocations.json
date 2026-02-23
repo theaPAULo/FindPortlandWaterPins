@@ -1321,5 +1321,12 @@
     "latitude": 45.5188633,
     "longitude": -122.6594156,
     "type": "Venue"
+  },
+  {
+    "name": "Portland Playhouse",
+    "address": "602 NE Prescott St, Portland, OR 97211",
+    "latitude": 45.55528899999999,
+    "longitude": -122.6593379,
+    "type": "Theatre"
   }
 ]
