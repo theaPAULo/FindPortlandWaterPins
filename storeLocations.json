@@ -1331,17 +1331,10 @@
   },
   {
     "name": "Travel Portland",
-    "address": "",
-    "latitude": "",
-    "longitude": "",
+    "address": "100 SW Main St #1100, Portland, OR 97204, United States",
+    "latitude": 45.5148073,
+    "longitude": -122.6755133,
     "type": "Office"
-  },
-  {
-    "name": "Milagro Theatre",
-    "address": "525 SE Stark St, Portland, OR 97214",
-    "latitude": 45.5194639,
-    "longitude": -122.6601306,
-    "type": "Theatre"
   },
   {
     "name": "Woodstock Cafe",
