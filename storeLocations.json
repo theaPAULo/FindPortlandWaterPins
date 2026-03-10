@@ -1349,5 +1349,12 @@
     "latitude": 45.5244393,
     "longitude": -122.6726802,
     "type": "Shop"
+  },
+  {
+    "name": "Capitola",
+    "address": "4224 N Mississippi Ave i, Portland, OR, 97217",
+    "latitude": 45.5542649,
+    "longitude": -122.6753875,
+    "type": "Cafe"
   }
 ]
