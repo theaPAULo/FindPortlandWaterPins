@@ -1356,5 +1356,12 @@
     "latitude": 45.5542649,
     "longitude": -122.6753875,
     "type": "Cafe"
+  },
+  {
+    "name": "DripDrop Coffee",
+    "address": "932 SW 4th Ave, Portland, OR, 97204",
+    "latitude": 45.5166387,
+    "longitude": -122.6773876,
+    "type": "Cafe"
   }
 ]
