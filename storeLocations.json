@@ -1377,5 +1377,19 @@
     "latitude": 45.5032108,
     "longitude": -122.6398994,
     "type": "Theatre"
+  },
+  {
+    "name": "Cascadia Taphouse",
+    "address": "13619 NW Cornell Rd, Portland, OR 97229, Portland, OR, 97229",
+    "latitude": 45.5286769,
+    "longitude": -122.8166571,
+    "type": "Bar"
+  },
+  {
+    "name": "Cascadia Heights",
+    "address": "7329 SW Barnes Rd, Portland, OR, 97225",
+    "latitude": 45.5162375,
+    "longitude": -122.752488,
+    "type": "Bar"
   }
 ]
