@@ -1391,5 +1391,12 @@
     "latitude": 45.5162375,
     "longitude": -122.752488,
     "type": "Bar"
+  },
+  {
+    "name": "REX HILL",
+    "address": "30835 OR-99W, Newberg, OR, 97132",
+    "latitude": 45.3138394,
+    "longitude": -122.9201131,
+    "type": "Winery"
   }
 ]
