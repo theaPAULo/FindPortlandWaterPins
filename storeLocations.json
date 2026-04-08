@@ -1398,5 +1398,12 @@
     "latitude": 45.3138394,
     "longitude": -122.9201131,
     "type": "Winery"
+  },
+  {
+    "name": "Artemis Foods",
+    "address": "1610 SE 3rd Ave, Portland, OR, 97214",
+    "latitude": 45.511377,
+    "longitude": -122.6624942,
+    "type": "Catering"
   }
 ]
