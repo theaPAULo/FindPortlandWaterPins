@@ -1405,5 +1405,12 @@
     "latitude": 45.511377,
     "longitude": -122.6624942,
     "type": "Catering"
+  },
+  {
+    "name": "Mississippi Studios",
+    "address": "3939 N. Mississippi Ave, Portland, OR, 97227",
+    "latitude": 45.55144019999999,
+    "longitude": -122.6758361,
+    "type": "Venue"
   }
 ]
