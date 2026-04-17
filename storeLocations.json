@@ -1419,5 +1419,19 @@
     "latitude": 45.4856537,
     "longitude": -122.8007577,
     "type": "Restaurant"
+  },
+  {
+    "name": "Courtyard by Marriott Portland Tigard",
+    "address": "15686 SW Sequoia Pkwy, Tigard, OR, 97224",
+    "latitude": 45.4075608,
+    "longitude": -122.7462341,
+    "type": "Hotel"
+  },
+  {
+    "name": "Xicha Brewing",
+    "address": "2195 Hyacinth St NE #162, Salem, OR, 97301",
+    "latitude": 44.9820006,
+    "longitude": -123.0011613,
+    "type": "Bar"
   }
 ]
