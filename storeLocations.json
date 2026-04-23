@@ -1433,5 +1433,12 @@
     "latitude": 44.9820006,
     "longitude": -123.0011613,
     "type": "Bar"
+  },
+  {
+    "name": "Spirit of Sage",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "type": "Bar"
   }
 ]
