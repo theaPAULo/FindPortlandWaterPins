@@ -1440,5 +1440,12 @@
     "latitude": "",
     "longitude": "",
     "type": "Bar"
+  },
+  {
+    "name": "Garden house",
+    "address": "5120 SE 28th Ave, Portland, OR, 97202",
+    "latitude": 45.4857016,
+    "longitude": -122.6372165,
+    "type": "Clinic"
   }
 ]
