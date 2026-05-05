@@ -1442,10 +1442,24 @@
     "type": "Bar"
   },
   {
-    "name": "Garden house",
+    "name": "Garden House",
     "address": "5120 SE 28th Ave, Portland, OR, 97202",
     "latitude": 45.4857016,
     "longitude": -122.6372165,
     "type": "Clinic"
+  },
+  {
+    "name": "Bar Bar",
+    "address": "3943 N Mississippi Ave, Portland, OR, 97227",
+    "latitude": "",
+    "longitude": "",
+    "type": "Bar"
+  },
+  {
+    "name": "Polaris Hall",
+    "address": "635 N Killingsworth Ct, Portland, OR, 97217",
+    "latitude": "",
+    "longitude": "",
+    "type": "Venue"
   }
 ]
