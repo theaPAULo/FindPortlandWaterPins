@@ -1461,5 +1461,12 @@
     "latitude": 45.5621114,
     "longitude": -122.6737581,
     "type": "Venue"
+  },
+  {
+    "name": "45th Parallel Wines",
+    "address": "8527 N. Lombard St, Portland, OR, 97203",
+    "latitude": 45.59024290000001,
+    "longitude": -122.7543209,
+    "type": "Winery"
   }
 ]
