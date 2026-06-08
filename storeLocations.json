@@ -1393,13 +1393,6 @@
     "type": "Venue"
   },
   {
-    "name": "Tacos Fita",
-    "address": "4725 SW Lombard Ave, Beaverton, OR 97005",
-    "latitude": 45.4856537,
-    "longitude": -122.8007577,
-    "type": "Restaurant"
-  },
-  {
     "name": "Courtyard by Marriott Portland Tigard",
     "address": "15686 SW Sequoia Pkwy, Tigard, OR, 97224",
     "latitude": 45.4075608,
