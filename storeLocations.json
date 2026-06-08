@@ -42,13 +42,6 @@
     "type": "Cafe"
   },
   {
-    "name": "Church",
-    "address": "2600 NE Sandy Blvd, Portland, OR 97232",
-    "latitude": 45.5281482,
-    "longitude": -122.6390749,
-    "type": "Bar"
-  },
-  {
     "name": "Honey Latte Cafe",
     "address": "1033 SE Main St, Portland, OR 97214",
     "latitude": 45.5138743,
@@ -294,13 +287,6 @@
     "type": "Food Truck"
   },
   {
-    "name": "Daily Fuel",
-    "address": "3342 SE Belmont St, Portland, OR 97214",
-    "latitude": 45.5163133,
-    "longitude": -122.6300088,
-    "type": "Restaurant"
-  },
-  {
     "name": "Curious Comedy Theater",
     "address": "5225 NE Martin Luther King Jr Blvd, Portland, OR 97211",
     "latitude": 45.5610515,
@@ -425,13 +411,6 @@
     "latitude": 45.5258954,
     "longitude": -122.8387492,
     "type": "Hotel"
-  },
-  {
-    "name": "pre'vok",
-    "address": "\n3619 SE Milwaukie Ave, Portland, OR 97202",
-    "latitude": 45.4964834,
-    "longitude": -122.6537086,
-    "type": "Clothing"
   },
   {
     "name": "Canopy by Hilton Portland Pearl District",
@@ -911,7 +890,7 @@
   },
   {
     "name": "Sip Savor Explore Oregon",
-    "address": "7440 S Miles Pl. Portland, OR 97219",
+    "address": "5769 S Kelly Ave., Portland OR 97239 ",
     "latitude": 45.4706645,
     "longitude": -122.6699284,
     "type": "Tours"
@@ -1439,7 +1418,7 @@
     "address": "",
     "latitude": "",
     "longitude": "",
-    "type": "Bar"
+    "type": "Mobile Bar"
   },
   {
     "name": "Garden House",
@@ -1468,5 +1447,54 @@
     "latitude": 45.59024290000001,
     "longitude": -122.7543209,
     "type": "Winery"
+  },
+  {
+    "name": "Pacific West Bank",
+    "address": "1300 SW 5th Ave, Portland, OR, 97201",
+    "latitude": 45.51428079999999,
+    "longitude": -122.6793509,
+    "type": "Office"
+  },
+  {
+    "name": "The Side Yard PDX",
+    "address": "4800 NE Simpson St., Portland, OR, 97218",
+    "latitude": 45.5647364,
+    "longitude": -122.6129357,
+    "type": "Venue"
+  },
+  {
+    "name": "The Meadow",
+    "address": "3731 SE Hawthorne Blvd, Portland, OR, 97214",
+    "latitude": 45.5122928,
+    "longitude": -122.625152,
+    "type": "Shop"
+  },
+  {
+    "name": "Straightaway Cocktails",
+    "address": "7000 NE Airport Way, Portland, OR 97218",
+    "latitude": 45.5852698,
+    "longitude": -122.5917184,
+    "type": "Bar"
+  },
+  {
+    "name": "Siren Theater",
+    "address": "3913 N Mississippi Ave, Portland, OR, 97227",
+    "latitude": 45.5511028,
+    "longitude": -122.6756673,
+    "type": "Theatre"
+  },
+  {
+    "name": "Lecker Liquor",
+    "address": "19265 SW Martinazzi Avenue, Tualatin, OR, 97062",
+    "latitude": 45.3805628,
+    "longitude": -122.7605377,
+    "type": "Liquor Store"
+  },
+  {
+    "name": "Tacos Fita (Beaverton)",
+    "address": "4725 SW Lombard Ave, Beaverton, OR 97005",
+    "latitude": 45.4856537,
+    "longitude": -122.8007577,
+    "type": "Restaurant"
   }
 ]
