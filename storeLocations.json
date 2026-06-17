@@ -1489,5 +1489,47 @@
     "latitude": 45.4856537,
     "longitude": -122.8007577,
     "type": "Restaurant"
+  },
+  {
+    "name": "Coat Flagging",
+    "address": "5025 NE 82nd Ave, Portland, OR, 97220",
+    "latitude": 45.55969839999999,
+    "longitude": -122.5790863,
+    "type": "Construction"
+  },
+  {
+    "name": "US Foods",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "type": "Distributor"
+  },
+  {
+    "name": "Moberi (Slabtown)",
+    "address": "1755 NW 23rd Ave, Portland, OR, 97210",
+    "latitude": 45.5349943,
+    "longitude": -122.6989784,
+    "type": "Restaurant"
+  },
+  {
+    "name": "Moberi (Cedar Hills)",
+    "address": "2545 SW Cedar Hills Blvd, Beaverton, OR, 97005",
+    "latitude": 45.5013733,
+    "longitude": -122.8066989,
+    "type": "Restaurant"
+  },
+  {
+    "name": "Moberi (Hawthorne)",
+    "address": "3646 SE Hawthorne Blvd, Portland, OR, 97214",
+    "latitude": 45.5119064,
+    "longitude": -122.6259623,
+    "type": "Restaurant"
+  },
+  {
+    "name": "Moberi (Mississippi)",
+    "address": "4220 N Mississippi Ave, Portland, OR, 97217",
+    "latitude": 45.5542428,
+    "longitude": -122.6754063,
+    "type": "Restaurant"
   }
 ]
