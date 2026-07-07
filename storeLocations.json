@@ -1531,5 +1531,19 @@
     "latitude": 45.4779259,
     "longitude": -122.6955825,
     "type": "Grocery"
+  },
+  {
+    "name": "NW Natural",
+    "address": "250 SW Taylor Street, Portland, OR, 97204",
+    "latitude": "",
+    "longitude": "",
+    "type": "Office"
+  },
+  {
+    "name": "McCormick Pier Market",
+    "address": "600 NW Naito Pkwy Ste A, Portland, OR, 97209",
+    "latitude": 45.5280683,
+    "longitude": -122.6727165,
+    "type": "Shop"
   }
 ]
