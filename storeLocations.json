@@ -1535,9 +1535,16 @@
   {
     "name": "NW Natural",
     "address": "250 SW Taylor Street, Portland, OR, 97204",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 45.5166999,
+    "longitude": -122.6758084,
     "type": "Office"
+  },
+  {
+    "name": "The Marlakey",
+    "address": "1210 Nw hoyt st, Portland, Or , 97209",
+    "latitude": 45.527062,
+    "longitude": -122.683604,
+    "type": "Restaurant"
   },
   {
     "name": "McCormick Pier Market",
@@ -1545,5 +1552,12 @@
     "latitude": 45.5280683,
     "longitude": -122.6727165,
     "type": "Shop"
+  },
+  {
+    "name": "Float North",
+    "address": "1617 NE 17th Ave, Portland, OR, 97232",
+    "latitude": 45.534634,
+    "longitude": -122.648618,
+    "type": "Clinic"
   }
 ]
