@@ -1540,7 +1540,7 @@
     "type": "Office"
   },
   {
-    "name": "The Marlakey",
+    "name": "The Malarkey",
     "address": "1210 Nw hoyt st, Portland, Or , 97209",
     "latitude": 45.527062,
     "longitude": -122.683604,
@@ -1559,5 +1559,12 @@
     "latitude": 45.534634,
     "longitude": -122.648618,
     "type": "Clinic"
+  },
+  {
+    "name": "Carioca Bowls",
+    "address": "827 NE Alberta St, Portland, OR, 97211",
+    "latitude": 45.5593177,
+    "longitude": -122.6568671,
+    "type": "Restaurant"
   }
 ]
