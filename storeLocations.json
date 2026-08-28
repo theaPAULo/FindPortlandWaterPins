@@ -1566,5 +1566,12 @@
     "latitude": 45.5593177,
     "longitude": -122.6568671,
     "type": "Restaurant"
+  },
+  {
+    "name": "Fried Egg I'm in Love (Hawthorne)",
+    "address": "3549 S.E. Hawthorne Blvd, Portland, OR, 97214",
+    "latitude": 45.5122474,
+    "longitude": -122.6276368,
+    "type": "Restaurant"
   }
 ]
