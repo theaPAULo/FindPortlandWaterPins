@@ -1573,5 +1573,19 @@
     "latitude": 45.5122474,
     "longitude": -122.6276368,
     "type": "Restaurant"
+  },
+  {
+    "name": "Rad Magic Subs",
+    "address": "2824 se Gladstone street, Portland, OR, 97202",
+    "latitude": 45.4931934,
+    "longitude": -122.6369068,
+    "type": "Restaurant"
+  },
+  {
+    "name": "Cajun Papa's",
+    "address": "155 NW 338th Ave, Hillsboro, OR, 97124",
+    "latitude": 45.5211127,
+    "longitude": -123.0250876,
+    "type": "Catering"
   }
 ]
