@@ -1576,7 +1576,7 @@
   },
   {
     "name": "Rad Magic Subs",
-    "address": "2824 se Gladstone street, Portland, OR, 97202",
+    "address": "2824 SE Gladstone Street, Portland, OR, 97202",
     "latitude": 45.4931934,
     "longitude": -122.6369068,
     "type": "Restaurant"
@@ -1587,5 +1587,26 @@
     "latitude": 45.5211127,
     "longitude": -123.0250876,
     "type": "Catering"
+  },
+  {
+    "name": "Sysco",
+    "address": "",
+    "latitude": "",
+    "longitude": "",
+    "type": ""
+  },
+  {
+    "name": "Kiggins Theatre",
+    "address": "1011 Main St, Vancouver, WA, 98660",
+    "latitude": 45.62906,
+    "longitude": -122.671309,
+    "type": "Theatre"
+  },
+  {
+    "name": "Montage",
+    "address": "1080 SE Madison St , Portland , OR, 97214",
+    "latitude": 45.5127837,
+    "longitude": -122.6553077,
+    "type": "Food Truck"
   }
 ]
