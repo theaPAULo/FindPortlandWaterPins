@@ -1423,8 +1423,8 @@
   {
     "name": "Bar Bar",
     "address": "3943 N Mississippi Ave, Portland, OR, 97227",
-    "latitude": "",
-    "longitude": "",
+    "latitude": 45.5515015,
+    "longitude": -122.6757729,
     "type": "Bar"
   },
   {
@@ -1608,5 +1608,33 @@
     "latitude": 45.5127837,
     "longitude": -122.6553077,
     "type": "Food Truck"
+  },
+  {
+    "name": "Portland Reptile Lounge",
+    "address": "2038 SE Belmont St, Portland, OR, 97214",
+    "latitude": 45.516301,
+    "longitude": -122.6447437,
+    "type": "Museum"
+  },
+  {
+    "name": "Cowlitz Container",
+    "address": "2550 N Hendrickson Drive, Suite K , Kalama, WA, 98625",
+    "latitude": 46.039036,
+    "longitude": -122.865929,
+    "type": "Office"
+  },
+  {
+    "name": "Artistree NW",
+    "address": "305 E Historic Columbia River Hwy , Troutdale , OR, 97060",
+    "latitude": 45.5409961,
+    "longitude": -122.3862943,
+    "type": "Shop"
+  },
+  {
+    "name": "RiverPlace Hotel",
+    "address": "1510 S Harbor Way, Portland, OR, 97201",
+    "latitude": 45.5115128,
+    "longitude": -122.6741333,
+    "type": "Hotel"
   }
 ]
