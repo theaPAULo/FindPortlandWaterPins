@@ -1636,5 +1636,12 @@
     "latitude": 45.5115128,
     "longitude": -122.6741333,
     "type": "Hotel"
+  },
+  {
+    "name": "Contrarian's Game Cafe",
+    "address": "14313 NE 20th Ave # A112, , Vancouver, WA, 98686",
+    "latitude": 45.7252109,
+    "longitude": -122.650504,
+    "type": "Cafe"
   }
 ]
