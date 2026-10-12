@@ -1671,5 +1671,12 @@
     "latitude": 45.425587,
     "longitude": -122.6457716,
     "type": "Shop"
+  },
+  {
+    "name": "Ecovibe",
+    "address": "1906 NE Alberta St, Portland , OR, 97211",
+    "latitude": 45.5589562,
+    "longitude": -122.6455947,
+    "type": "Shop"
   }
 ]
