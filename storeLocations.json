@@ -1650,5 +1650,26 @@
     "latitude": 45.520564,
     "longitude": -122.6889077,
     "type": "Apartment"
+  },
+  {
+    "name": "Hidden Gem Gallery",
+    "address": "79 SE Taylor St, Portland, OR, 97214",
+    "latitude": 45.5153224,
+    "longitude": -122.6649679,
+    "type": ""
+  },
+  {
+    "name": "Golden Hour",
+    "address": "3538 SE Hawthorne Blvd. Portland, OR 97214",
+    "latitude": 45.511922,
+    "longitude": -122.6278151,
+    "type": "Cafe"
+  },
+  {
+    "name": "B-Side Records & Vintage",
+    "address": "10801 de main street, Milwaukie, OR, 97222",
+    "latitude": 45.425587,
+    "longitude": -122.6457716,
+    "type": "Shop"
   }
 ]
