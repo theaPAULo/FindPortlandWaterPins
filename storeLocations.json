@@ -1685,5 +1685,19 @@
     "latitude": 45.457656119223,
     "longitude": -123.843865487973,
     "type": "Shop"
+  },
+  {
+    "name": "Lift Off Exteriors",
+    "address": "7709 sw nimbus ave, Beaverton, OR 97008",
+    "latitude": 45.463098514766,
+    "longitude": -122.788573918452,
+    "type": "Office"
+  },
+  {
+    "name": "Simple. Local. Coffee.",
+    "address": "115 SW Ash St #100, Portland, OR 97204",
+    "latitude": 45.521847400494,
+    "longitude": -122.671619827171,
+    "type": "Cafe"
   }
 ]
