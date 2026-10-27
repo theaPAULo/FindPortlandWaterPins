@@ -1,0 +1,60 @@
+{
+  "updated_at": "2026-10-27T15:25:15Z",
+  "venues": {
+    "active": 222,
+    "display": "220+",
+    "window_months": 18
+  },
+  "categories": [
+    {
+      "name": "Restaurants",
+      "count": 46
+    },
+    {
+      "name": "Cafes",
+      "count": 31
+    },
+    {
+      "name": "Hotels",
+      "count": 27
+    },
+    {
+      "name": "Food Trucks",
+      "count": 25
+    },
+    {
+      "name": "Shops",
+      "count": 19
+    },
+    {
+      "name": "Bars & Wineries",
+      "count": 17
+    },
+    {
+      "name": "Theaters & Venues",
+      "count": 17
+    },
+    {
+      "name": "Grocery & Markets",
+      "count": 12
+    },
+    {
+      "name": "Offices & Workplaces",
+      "count": 11
+    },
+    {
+      "name": "Fitness & Wellness",
+      "count": 9
+    },
+    {
+      "name": "Museums & Attractions",
+      "count": 8
+    }
+  ],
+  "cans": {
+    "total": 319741,
+    "ytd": 144834,
+    "year": 2026,
+    "since": "2024-02"
+  }
+}
