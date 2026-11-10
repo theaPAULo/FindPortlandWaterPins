@@ -1232,6 +1232,97 @@
     "category": "Theaters & Venues"
   },
   {
+    "name": "Byline Apartments",
+    "address": "1640 SW Yamhill St, Portland, OR, 97205",
+    "latitude": 45.520564,
+    "longitude": -122.6889077,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Cascade Hasson Relocation",
+    "address": "310 North State Street Suite 102 Lake Oswego, OR 97034",
+    "latitude": 45.4183212,
+    "longitude": -122.6633409,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Coat Flagging",
+    "address": "5025 NE 82nd Ave, Portland, OR, 97220",
+    "latitude": 45.55969839999999,
+    "longitude": -122.5790863,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Cowlitz Container",
+    "address": "2550 N Hendrickson Drive, Suite K , Kalama, WA, 98625",
+    "latitude": 46.039036,
+    "longitude": -122.865929,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Lift Off Exteriors",
+    "address": "7709 sw nimbus ave, Beaverton, OR 97008",
+    "latitude": 45.463098514766,
+    "longitude": -122.788573918452,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "NV Apartments",
+    "address": "1261 NW Overton Street, Portland, OR 97209",
+    "latitude": 45.532256430413,
+    "longitude": -122.683919640914,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "NW Builders and Renovation",
+    "address": "6807 NE 79th Ct #D Portland, Oregon 97218",
+    "latitude": 45.5724949,
+    "longitude": -122.5816473,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "NW Natural",
+    "address": "250 SW Taylor Street, Portland, OR, 97204",
+    "latitude": 45.5166999,
+    "longitude": -122.6758084,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Pacific West Bank",
+    "address": "1300 SW 5th Ave, Portland, OR, 97201",
+    "latitude": 45.51428079999999,
+    "longitude": -122.6793509,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Park Avenue West Apartments",
+    "address": "750 SW 9th Ave., Portland, OR 97205",
+    "latitude": 45.5194058,
+    "longitude": -122.6810919,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "PSU",
+    "address": "1825 SW Broadway, Portland, OR 97201",
+    "latitude": 45.5118744,
+    "longitude": -122.6844194,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "The Sutton",
+    "address": "1550 Northwest Naito Parkway, Portland, OR 97209",
+    "latitude": 45.535058386799,
+    "longitude": -122.683280335765,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Travel Portland",
+    "address": "100 SW Main St #1100, Portland, OR 97204, United States",
+    "latitude": 45.5148073,
+    "longitude": -122.6755133,
+    "category": "Offices & Workplaces"
+  },
+  {
     "name": "Food Fight! Grocery",
     "address": "11155 NE Halsey St, Portland, OR 97220",
     "latitude": 45.5337473,
@@ -1314,83 +1405,6 @@
     "latitude": 45.5347519,
     "longitude": -122.6419521,
     "category": "Grocery & Markets"
-  },
-  {
-    "name": "Byline Apartments",
-    "address": "1640 SW Yamhill St, Portland, OR, 97205",
-    "latitude": 45.520564,
-    "longitude": -122.6889077,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Cascade Hasson Relocation",
-    "address": "310 North State Street Suite 102 Lake Oswego, OR 97034",
-    "latitude": 45.4183212,
-    "longitude": -122.6633409,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Coat Flagging",
-    "address": "5025 NE 82nd Ave, Portland, OR, 97220",
-    "latitude": 45.55969839999999,
-    "longitude": -122.5790863,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Cowlitz Container",
-    "address": "2550 N Hendrickson Drive, Suite K , Kalama, WA, 98625",
-    "latitude": 46.039036,
-    "longitude": -122.865929,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Lift Off Exteriors",
-    "address": "7709 sw nimbus ave, Beaverton, OR 97008",
-    "latitude": 45.463098514766,
-    "longitude": -122.788573918452,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "NW Builders and Renovation",
-    "address": "6807 NE 79th Ct #D Portland, Oregon 97218",
-    "latitude": 45.5724949,
-    "longitude": -122.5816473,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "NW Natural",
-    "address": "250 SW Taylor Street, Portland, OR, 97204",
-    "latitude": 45.5166999,
-    "longitude": -122.6758084,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Pacific West Bank",
-    "address": "1300 SW 5th Ave, Portland, OR, 97201",
-    "latitude": 45.51428079999999,
-    "longitude": -122.6793509,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Park Avenue West Apartments",
-    "address": "750 SW 9th Ave., Portland, OR 97205",
-    "latitude": 45.5194058,
-    "longitude": -122.6810919,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "PSU",
-    "address": "1825 SW Broadway, Portland, OR 97201",
-    "latitude": 45.5118744,
-    "longitude": -122.6844194,
-    "category": "Offices & Workplaces"
-  },
-  {
-    "name": "Travel Portland",
-    "address": "100 SW Main St #1100, Portland, OR 97204, United States",
-    "latitude": 45.5148073,
-    "longitude": -122.6755133,
-    "category": "Offices & Workplaces"
   },
   {
     "name": "45 Studio",
@@ -1510,5 +1524,12 @@
     "latitude": 45.5108254,
     "longitude": -122.7182921,
     "category": "Museums & Attractions"
+  },
+  {
+    "name": "The Residences at 11W",
+    "address": "1140 SW Washington St, Portland, OR 97205",
+    "latitude": 45.5216065,
+    "longitude": -122.6829261,
+    "category": "More partners"
   }
 ]

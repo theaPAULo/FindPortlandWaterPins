@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-09T20:52:15Z",
+  "updated_at": "2026-11-10T17:58:53Z",
   "venues": {
-    "active": 218,
-    "display": "210+",
+    "active": 221,
+    "display": "220+",
     "window_months": 18
   },
   "categories": [
@@ -35,12 +35,12 @@
       "count": 17
     },
     {
-      "name": "Grocery & Markets",
-      "count": 12
+      "name": "Offices & Workplaces",
+      "count": 13
     },
     {
-      "name": "Offices & Workplaces",
-      "count": 11
+      "name": "Grocery & Markets",
+      "count": 12
     },
     {
       "name": "Fitness & Wellness",
@@ -49,10 +49,14 @@
     {
       "name": "Museums & Attractions",
       "count": 8
+    },
+    {
+      "name": "More partners",
+      "count": 1
     }
   ],
   "cans": {
-    "total": 326289,
+    "total": 327129,
     "since": "2024-02"
   }
 }
