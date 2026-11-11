@@ -924,7 +924,7 @@
     "type": "Event"
   },
   {
-    "name": "Homewood Suites by Hilton Portland Airport",
+    "name": "Homewood Suites by Hilton Hillsboro/Beaverton",
     "address": "15525 NW Gateway Ct, Beaverton, OR 97006",
     "latitude": 45.5286327,
     "longitude": -122.8360651,
@@ -1699,5 +1699,40 @@
     "latitude": 45.521847400494,
     "longitude": -122.671619827171,
     "type": "Cafe"
+  },
+  {
+    "name": "NV Apartments",
+    "address": "1261 NW Overton Street, Portland, OR 97209",
+    "latitude": 45.532256430413,
+    "longitude": -122.683919640914,
+    "type": "Apartment"
+  },
+  {
+    "name": "The Sutton",
+    "address": "1550 Northwest Naito Parkway, Portland, OR 97209",
+    "latitude": 45.535058386799,
+    "longitude": -122.683280335765,
+    "type": "Apartment"
+  },
+  {
+    "name": "The Residences at 11W",
+    "address": "1140 SW Washington St, Portland, OR 97205",
+    "latitude": 45.5216065,
+    "longitude": -122.6829261,
+    "type": "Apartment"
+  },
+  {
+    "name": "Hotel Reynard",
+    "address": "302 E Historic Columbia River Hwy, Troutdale, OR 97060",
+    "latitude": 45.540686495757,
+    "longitude": -122.386182311404,
+    "type": "Hotel"
+  },
+  {
+    "name": "Pals",
+    "address": "515 NE Tomahawk Island Dr #105, Portland, OR 97217",
+    "latitude": 45.604333028272,
+    "longitude": -122.659194781563,
+    "type": "Restaurant"
   }
 ]
