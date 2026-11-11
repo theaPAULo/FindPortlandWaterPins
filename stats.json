@@ -1,26 +1,26 @@
 {
-  "updated_at": "2026-11-10T17:58:53Z",
+  "updated_at": "2026-11-11T17:56:55Z",
   "venues": {
-    "active": 221,
+    "active": 223,
     "display": "220+",
     "window_months": 18
   },
   "categories": [
     {
       "name": "Restaurants",
-      "count": 46
+      "count": 47
     },
     {
       "name": "Cafes",
       "count": 30
     },
     {
-      "name": "Food Trucks",
+      "name": "Hotels",
       "count": 25
     },
     {
-      "name": "Hotels",
-      "count": 24
+      "name": "Food Trucks",
+      "count": 25
     },
     {
       "name": "Shops",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Offices & Workplaces",
-      "count": 13
+      "count": 14
     },
     {
       "name": "Grocery & Markets",
@@ -49,14 +49,10 @@
     {
       "name": "Museums & Attractions",
       "count": 8
-    },
-    {
-      "name": "More partners",
-      "count": 1
     }
   ],
   "cans": {
-    "total": 327129,
+    "total": 327801,
     "since": "2024-02"
   }
 }
