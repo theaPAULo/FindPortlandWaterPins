@@ -455,13 +455,6 @@
     "category": "Cafes"
   },
   {
-    "name": "Harder Day Coffee",
-    "address": "1215 SE 8th Ave Unit G Portland, OR 97214",
-    "latitude": 45.5140144,
-    "longitude": -122.6580275,
-    "category": "Cafes"
-  },
-  {
     "name": "Honey Latte Cafe",
     "address": "1033 SE Main St, Portland, OR 97214",
     "latitude": 45.5138743,
@@ -537,181 +530,6 @@
     "latitude": 45.4793832,
     "longitude": -122.6199562,
     "category": "Cafes"
-  },
-  {
-    "name": "AC Hotel Portland Beaverton",
-    "address": "15705 NW Blueridge Dr Beaverton, OR 97006",
-    "latitude": 45.5258954,
-    "longitude": -122.8387492,
-    "category": "Hotels"
-  },
-  {
-    "name": "AC Hotel Portland Lake Oswego",
-    "address": "14811 Kruse Oaks Dr, Lake Oswego, OR 97035",
-    "latitude": 45.4190993,
-    "longitude": -122.7416045,
-    "category": "Hotels"
-  },
-  {
-    "name": "The Bidwell Marriott Portland",
-    "address": "520 SW Broadway, Portland, OR 97205",
-    "latitude": 45.5203616,
-    "longitude": -122.6787178,
-    "category": "Hotels"
-  },
-  {
-    "name": "Canopy by Hilton Portland Pearl District",
-    "address": "425 NW 9th Ave, Portland, OR 97209",
-    "latitude": 45.5262844,
-    "longitude": -122.6804957,
-    "category": "Hotels"
-  },
-  {
-    "name": "The Clyde Hotel Portland by Kasa",
-    "address": "1022 SW Harvey Milk St, Portland, OR 97205",
-    "latitude": 45.522011,
-    "longitude": -122.681617,
-    "category": "Hotels"
-  },
-  {
-    "name": "Courtyard by Marriott Portland Tigard",
-    "address": "15686 SW Sequoia Pkwy, Tigard, OR, 97224",
-    "latitude": 45.4075608,
-    "longitude": -122.7462341,
-    "category": "Hotels"
-  },
-  {
-    "name": "Embassy Suites by Hilton Portland Downtown",
-    "address": "319 SW Pine St, Portland, OR 97204",
-    "latitude": 45.5220707,
-    "longitude": -122.6740251,
-    "category": "Hotels"
-  },
-  {
-    "name": "Embassy Suites by Hilton Portland Tigard",
-    "address": "9000 SW Washington Square Rd, Tigard, OR 97223",
-    "latitude": 45.455536,
-    "longitude": -122.7814459,
-    "category": "Hotels"
-  },
-  {
-    "name": "The Heathman Lodge",
-    "address": "7801 NE Greenwood Dr, Vancouver, WA 98662",
-    "latitude": 45.6533064,
-    "longitude": -122.5920084,
-    "category": "Hotels"
-  },
-  {
-    "name": "Hi-Lo Hotel",
-    "address": "320 SW Harvey Milk St, Portland, OR 97204",
-    "latitude": 45.5202827,
-    "longitude": -122.6750329,
-    "category": "Hotels"
-  },
-  {
-    "name": "Hilton Garden Inn Portland/Lake Oswego",
-    "address": "14850 Kruse Oaks Dr Lake Oswego, OR 97035",
-    "latitude": 45.4182151,
-    "longitude": -122.7393431,
-    "category": "Hotels"
-  },
-  {
-    "name": "Homewood Suites by Hilton Hillsboro/Beaverton",
-    "address": "15525 NW Gateway Ct, Beaverton, OR 97006",
-    "latitude": 45.5286327,
-    "longitude": -122.8360651,
-    "category": "Hotels"
-  },
-  {
-    "name": "Hotel Reynard",
-    "address": "302 E Historic Columbia River Hwy, Troutdale, OR 97060",
-    "latitude": 45.540686495757,
-    "longitude": -122.386182311404,
-    "category": "Hotels"
-  },
-  {
-    "name": "Hotel Vance",
-    "address": "1455 SW Broadway, Portland, OR 97201",
-    "latitude": 45.5145858,
-    "longitude": -122.6824782,
-    "category": "Hotels"
-  },
-  {
-    "name": "Hotel Vintage",
-    "address": "422 SW Broadway, Portland, OR 97205",
-    "latitude": 45.5209134,
-    "longitude": -122.6785378,
-    "category": "Hotels"
-  },
-  {
-    "name": "The Hotel Zags",
-    "address": "515 SW Clay St, Portland, OR 97201",
-    "latitude": 45.5144437,
-    "longitude": -122.6804048,
-    "category": "Hotels"
-  },
-  {
-    "name": "Inn at Northrup Station",
-    "address": "2025 NW Northrup St, Portland, OR 97209",
-    "latitude": 45.5314993,
-    "longitude": -122.693422,
-    "category": "Hotels"
-  },
-  {
-    "name": "Moxy Portland Downtown",
-    "address": "585 SW 10th Ave, Portland, OR 97205",
-    "latitude": 45.5208733,
-    "longitude": -122.6820145,
-    "category": "Hotels"
-  },
-  {
-    "name": "Nomad Getaways",
-    "address": "Seaside, OR, United States, Oregon",
-    "latitude": 45.9931636,
-    "longitude": -123.9226385,
-    "category": "Hotels"
-  },
-  {
-    "name": "Portland Marriott Downtown Waterfront",
-    "address": "1401 SW Naito Pkwy, Portland, OR 97201",
-    "latitude": 45.5126103,
-    "longitude": -122.6757182,
-    "category": "Hotels"
-  },
-  {
-    "name": "RiverPlace Hotel",
-    "address": "1510 S Harbor Way, Portland, OR, 97201",
-    "latitude": 45.5115128,
-    "longitude": -122.6741333,
-    "category": "Hotels"
-  },
-  {
-    "name": "Sheraton Portland Airport Hotel",
-    "address": "8235 NE Airport Way Portland, OR 97220",
-    "latitude": 45.5828327,
-    "longitude": -122.5759734,
-    "category": "Hotels"
-  },
-  {
-    "name": "Tru by Hilton Aloha Beaverton",
-    "address": "17363 SW TV Hwy, Beaverton, OR, 97006",
-    "latitude": 45.4932592,
-    "longitude": -122.8558726,
-    "category": "Hotels"
-  },
-  {
-    "name": "Woodlark Hotel Portland",
-    "address": "813 SW Alder St, Portland, OR 97205",
-    "latitude": 45.5204205,
-    "longitude": -122.6803426,
-    "category": "Hotels"
-  },
-  {
-    "name": "WorldMark Portland Waterfront Park",
-    "address": "221 SW Naito Pkwy, Portland, OR 97204",
-    "latitude": 45.5206203,
-    "longitude": -122.6712424,
-    "category": "Hotels"
   },
   {
     "name": "Bam Pow Burgers",
@@ -887,6 +705,174 @@
     "latitude": 45.4287172,
     "longitude": -122.7712153,
     "category": "Food Trucks"
+  },
+  {
+    "name": "AC Hotel Portland Beaverton",
+    "address": "15705 NW Blueridge Dr Beaverton, OR 97006",
+    "latitude": 45.5258954,
+    "longitude": -122.8387492,
+    "category": "Hotels"
+  },
+  {
+    "name": "AC Hotel Portland Lake Oswego",
+    "address": "14811 Kruse Oaks Dr, Lake Oswego, OR 97035",
+    "latitude": 45.4190993,
+    "longitude": -122.7416045,
+    "category": "Hotels"
+  },
+  {
+    "name": "The Bidwell Marriott Portland",
+    "address": "520 SW Broadway, Portland, OR 97205",
+    "latitude": 45.5203616,
+    "longitude": -122.6787178,
+    "category": "Hotels"
+  },
+  {
+    "name": "Canopy by Hilton Portland Pearl District",
+    "address": "425 NW 9th Ave, Portland, OR 97209",
+    "latitude": 45.5262844,
+    "longitude": -122.6804957,
+    "category": "Hotels"
+  },
+  {
+    "name": "The Clyde Hotel Portland by Kasa",
+    "address": "1022 SW Harvey Milk St, Portland, OR 97205",
+    "latitude": 45.522011,
+    "longitude": -122.681617,
+    "category": "Hotels"
+  },
+  {
+    "name": "Courtyard by Marriott Portland Tigard",
+    "address": "15686 SW Sequoia Pkwy, Tigard, OR, 97224",
+    "latitude": 45.4075608,
+    "longitude": -122.7462341,
+    "category": "Hotels"
+  },
+  {
+    "name": "Embassy Suites by Hilton Portland Downtown",
+    "address": "319 SW Pine St, Portland, OR 97204",
+    "latitude": 45.5220707,
+    "longitude": -122.6740251,
+    "category": "Hotels"
+  },
+  {
+    "name": "Embassy Suites by Hilton Portland Tigard",
+    "address": "9000 SW Washington Square Rd, Tigard, OR 97223",
+    "latitude": 45.455536,
+    "longitude": -122.7814459,
+    "category": "Hotels"
+  },
+  {
+    "name": "The Heathman Lodge",
+    "address": "7801 NE Greenwood Dr, Vancouver, WA 98662",
+    "latitude": 45.6533064,
+    "longitude": -122.5920084,
+    "category": "Hotels"
+  },
+  {
+    "name": "Hi-Lo Hotel",
+    "address": "320 SW Harvey Milk St, Portland, OR 97204",
+    "latitude": 45.5202827,
+    "longitude": -122.6750329,
+    "category": "Hotels"
+  },
+  {
+    "name": "Hilton Garden Inn Portland/Lake Oswego",
+    "address": "14850 Kruse Oaks Dr Lake Oswego, OR 97035",
+    "latitude": 45.4182151,
+    "longitude": -122.7393431,
+    "category": "Hotels"
+  },
+  {
+    "name": "Homewood Suites by Hilton Hillsboro/Beaverton",
+    "address": "15525 NW Gateway Ct, Beaverton, OR 97006",
+    "latitude": 45.5286327,
+    "longitude": -122.8360651,
+    "category": "Hotels"
+  },
+  {
+    "name": "Hotel Reynard",
+    "address": "302 E Historic Columbia River Hwy, Troutdale, OR 97060",
+    "latitude": 45.540686495757,
+    "longitude": -122.386182311404,
+    "category": "Hotels"
+  },
+  {
+    "name": "Hotel Vance",
+    "address": "1455 SW Broadway, Portland, OR 97201",
+    "latitude": 45.5145858,
+    "longitude": -122.6824782,
+    "category": "Hotels"
+  },
+  {
+    "name": "Hotel Vintage",
+    "address": "422 SW Broadway, Portland, OR 97205",
+    "latitude": 45.5209134,
+    "longitude": -122.6785378,
+    "category": "Hotels"
+  },
+  {
+    "name": "The Hotel Zags",
+    "address": "515 SW Clay St, Portland, OR 97201",
+    "latitude": 45.5144437,
+    "longitude": -122.6804048,
+    "category": "Hotels"
+  },
+  {
+    "name": "Inn at Northrup Station",
+    "address": "2025 NW Northrup St, Portland, OR 97209",
+    "latitude": 45.5314993,
+    "longitude": -122.693422,
+    "category": "Hotels"
+  },
+  {
+    "name": "Moxy Portland Downtown",
+    "address": "585 SW 10th Ave, Portland, OR 97205",
+    "latitude": 45.5208733,
+    "longitude": -122.6820145,
+    "category": "Hotels"
+  },
+  {
+    "name": "Nomad Getaways",
+    "address": "Seaside, OR, United States, Oregon",
+    "latitude": 45.9931636,
+    "longitude": -123.9226385,
+    "category": "Hotels"
+  },
+  {
+    "name": "Portland Marriott Downtown Waterfront",
+    "address": "1401 SW Naito Pkwy, Portland, OR 97201",
+    "latitude": 45.5126103,
+    "longitude": -122.6757182,
+    "category": "Hotels"
+  },
+  {
+    "name": "RiverPlace Hotel",
+    "address": "1510 S Harbor Way, Portland, OR, 97201",
+    "latitude": 45.5115128,
+    "longitude": -122.6741333,
+    "category": "Hotels"
+  },
+  {
+    "name": "Tru by Hilton Aloha Beaverton",
+    "address": "17363 SW TV Hwy, Beaverton, OR, 97006",
+    "latitude": 45.4932592,
+    "longitude": -122.8558726,
+    "category": "Hotels"
+  },
+  {
+    "name": "Woodlark Hotel Portland",
+    "address": "813 SW Alder St, Portland, OR 97205",
+    "latitude": 45.5204205,
+    "longitude": -122.6803426,
+    "category": "Hotels"
+  },
+  {
+    "name": "WorldMark Portland Waterfront Park",
+    "address": "221 SW Naito Pkwy, Portland, OR 97204",
+    "latitude": 45.5206203,
+    "longitude": -122.6712424,
+    "category": "Hotels"
   },
   {
     "name": "503 Shop",
