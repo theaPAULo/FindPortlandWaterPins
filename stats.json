@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-13T17:54:36Z",
+  "updated_at": "2026-11-15T17:17:06Z",
   "venues": {
-    "active": 221,
+    "active": 220,
     "display": "220+",
     "window_months": 18
   },
@@ -40,7 +40,7 @@
     },
     {
       "name": "Grocery & Markets",
-      "count": 12
+      "count": 11
     },
     {
       "name": "Fitness & Wellness",
@@ -52,7 +52,7 @@
     }
   ],
   "cans": {
-    "total": 328113,
+    "total": 328161,
     "since": "2024-02"
   }
 }
