@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-15T17:17:06Z",
+  "updated_at": "2026-11-16T20:34:47Z",
   "venues": {
-    "active": 220,
-    "display": "220+",
+    "active": 219,
+    "display": "210+",
     "window_months": 18
   },
   "categories": [
@@ -15,11 +15,11 @@
       "count": 29
     },
     {
-      "name": "Food Trucks",
-      "count": 25
+      "name": "Hotels",
+      "count": 24
     },
     {
-      "name": "Hotels",
+      "name": "Food Trucks",
       "count": 24
     },
     {
@@ -52,7 +52,7 @@
     }
   ],
   "cans": {
-    "total": 328161,
+    "total": 328929,
     "since": "2024-02"
   }
 }

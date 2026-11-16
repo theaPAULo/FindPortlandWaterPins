@@ -532,181 +532,6 @@
     "category": "Cafes"
   },
   {
-    "name": "Bam Pow Burgers",
-    "address": "6035 NE Halsey St, Portland, OR 97213",
-    "latitude": 45.5339076,
-    "longitude": -122.6013393,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Bulgarian Job",
-    "address": "6035 NE Halsey St, Portland, OR 97213",
-    "latitude": 45.5339076,
-    "longitude": -122.6013393,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Chubby Bunny",
-    "address": "1027 NE Alberta St, Portland, OR 97211",
-    "latitude": 45.5591752,
-    "longitude": -122.6548461,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "El Pilon",
-    "address": "431 SW Harvey Milk St, Portland, OR 97204",
-    "latitude": 45.5208579,
-    "longitude": -122.676106,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Hina's Island Grindz",
-    "address": "11530 SW Pacific Hwy, Tigard, OR 97223",
-    "latitude": 45.4405653,
-    "longitude": -122.7486529,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Koi Fusion",
-    "address": "4237 N Mississippi Ave, Portland, OR 97217",
-    "latitude": 45.5544575,
-    "longitude": -122.6758209,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "La Arepa",
-    "address": "6035 NE Halsey St, Portland, OR 97213",
-    "latitude": 45.5339076,
-    "longitude": -122.6013393,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "La Arepa",
-    "address": "5716 SE 92nd Ave, Portland, OR 97266",
-    "latitude": 45.4810251,
-    "longitude": -122.5682163,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Montage",
-    "address": "1080 SE Madison St , Portland , OR, 97214",
-    "latitude": 45.5127837,
-    "longitude": -122.6553077,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "PDX Donerland",
-    "address": "625 NE Killingsworth St, Portland, OR 97211",
-    "latitude": 45.5629738,
-    "longitude": -122.6591288,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Picadrip",
-    "address": "7445 SE 72nd Ave, Portland, OR 97206",
-    "latitude": 45.4693148,
-    "longitude": -122.5897173,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Rose City Taps And Rose",
-    "address": "3505 N Mississippi Ave, Portland, OR 97227",
-    "latitude": 45.5479863,
-    "longitude": -122.6756746,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Rosey's",
-    "address": "7916 N. Emerald Ave Portland, OR 97217",
-    "latitude": 45.5808668,
-    "longitude": -122.6996616,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Spoons on 13th",
-    "address": "7875 SE 13th Ave, Portland, OR 97202",
-    "latitude": 45.4674832,
-    "longitude": -122.6532781,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Tacos Fita",
-    "address": "701 SW 6th Ave, Portland, OR 97204",
-    "latitude": 45.5185947,
-    "longitude": -122.6792741,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Wagon",
-    "address": "3518 SW Multnomah Blvd, Portland, OR 97219",
-    "latitude": 45.4669889,
-    "longitude": -122.7132533,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl",
-    "address": "4526 SE Hawthorne Blvd, Portland, OR 97215",
-    "latitude": 45.5118875,
-    "longitude": -122.6155262,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (Beaverton Bowl)",
-    "address": "4580 SW Watson Ave, Beaverton, OR 97005",
-    "latitude": 45.4865969,
-    "longitude": -122.805979,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (Eight-Bowl)",
-    "address": "701 SW 6th Ave, Portland, OR 97204",
-    "latitude": 45.5185947,
-    "longitude": -122.6792741,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (Hollywood Bowl)",
-    "address": "4615 NE Sandy Blvd, Portland, OR 97213",
-    "latitude": 45.5382348,
-    "longitude": -122.6157771,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (Invisibowl)",
-    "address": "3634 SE Division St, Portland, OR 97202",
-    "latitude": 45.5046049,
-    "longitude": -122.6256792,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (North Portland)",
-    "address": "3540 N Vancouver Ave, Portland, OR 97227",
-    "latitude": 45.55039215,
-    "longitude": -122.6679153,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (Portland Food Hall)",
-    "address": "827 SW 2nd Ave, Portland, OR 97204",
-    "latitude": 45.5170027,
-    "longitude": -122.6755002,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "The Whole Bowl (Quimbowl)",
-    "address": "1515 NW 23rd Ave, Portland, OR 97210",
-    "latitude": 45.5336594,
-    "longitude": -122.699157,
-    "category": "Food Trucks"
-  },
-  {
-    "name": "Wow Cow",
-    "address": "9100 SW Burnham St, Tigard, OR 97223",
-    "latitude": 45.4287172,
-    "longitude": -122.7712153,
-    "category": "Food Trucks"
-  },
-  {
     "name": "AC Hotel Portland Beaverton",
     "address": "15705 NW Blueridge Dr Beaverton, OR 97006",
     "latitude": 45.5258954,
@@ -873,6 +698,174 @@
     "latitude": 45.5206203,
     "longitude": -122.6712424,
     "category": "Hotels"
+  },
+  {
+    "name": "Bam Pow Burgers",
+    "address": "6035 NE Halsey St, Portland, OR 97213",
+    "latitude": 45.5339076,
+    "longitude": -122.6013393,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Bulgarian Job",
+    "address": "6035 NE Halsey St, Portland, OR 97213",
+    "latitude": 45.5339076,
+    "longitude": -122.6013393,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Chubby Bunny",
+    "address": "1027 NE Alberta St, Portland, OR 97211",
+    "latitude": 45.5591752,
+    "longitude": -122.6548461,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "El Pilon",
+    "address": "431 SW Harvey Milk St, Portland, OR 97204",
+    "latitude": 45.5208579,
+    "longitude": -122.676106,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Hina's Island Grindz",
+    "address": "11530 SW Pacific Hwy, Tigard, OR 97223",
+    "latitude": 45.4405653,
+    "longitude": -122.7486529,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Koi Fusion",
+    "address": "4237 N Mississippi Ave, Portland, OR 97217",
+    "latitude": 45.5544575,
+    "longitude": -122.6758209,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "La Arepa",
+    "address": "6035 NE Halsey St, Portland, OR 97213",
+    "latitude": 45.5339076,
+    "longitude": -122.6013393,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "La Arepa",
+    "address": "5716 SE 92nd Ave, Portland, OR 97266",
+    "latitude": 45.4810251,
+    "longitude": -122.5682163,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Montage",
+    "address": "1080 SE Madison St , Portland , OR, 97214",
+    "latitude": 45.5127837,
+    "longitude": -122.6553077,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "PDX Donerland",
+    "address": "625 NE Killingsworth St, Portland, OR 97211",
+    "latitude": 45.5629738,
+    "longitude": -122.6591288,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Rose City Taps And Rose",
+    "address": "3505 N Mississippi Ave, Portland, OR 97227",
+    "latitude": 45.5479863,
+    "longitude": -122.6756746,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Rosey's",
+    "address": "7916 N. Emerald Ave Portland, OR 97217",
+    "latitude": 45.5808668,
+    "longitude": -122.6996616,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Spoons on 13th",
+    "address": "7875 SE 13th Ave, Portland, OR 97202",
+    "latitude": 45.4674832,
+    "longitude": -122.6532781,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Tacos Fita",
+    "address": "701 SW 6th Ave, Portland, OR 97204",
+    "latitude": 45.5185947,
+    "longitude": -122.6792741,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Wagon",
+    "address": "3518 SW Multnomah Blvd, Portland, OR 97219",
+    "latitude": 45.4669889,
+    "longitude": -122.7132533,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl",
+    "address": "4526 SE Hawthorne Blvd, Portland, OR 97215",
+    "latitude": 45.5118875,
+    "longitude": -122.6155262,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (Beaverton Bowl)",
+    "address": "4580 SW Watson Ave, Beaverton, OR 97005",
+    "latitude": 45.4865969,
+    "longitude": -122.805979,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (Eight-Bowl)",
+    "address": "701 SW 6th Ave, Portland, OR 97204",
+    "latitude": 45.5185947,
+    "longitude": -122.6792741,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (Hollywood Bowl)",
+    "address": "4615 NE Sandy Blvd, Portland, OR 97213",
+    "latitude": 45.5382348,
+    "longitude": -122.6157771,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (Invisibowl)",
+    "address": "3634 SE Division St, Portland, OR 97202",
+    "latitude": 45.5046049,
+    "longitude": -122.6256792,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (North Portland)",
+    "address": "3540 N Vancouver Ave, Portland, OR 97227",
+    "latitude": 45.55039215,
+    "longitude": -122.6679153,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (Portland Food Hall)",
+    "address": "827 SW 2nd Ave, Portland, OR 97204",
+    "latitude": 45.5170027,
+    "longitude": -122.6755002,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "The Whole Bowl (Quimbowl)",
+    "address": "1515 NW 23rd Ave, Portland, OR 97210",
+    "latitude": 45.5336594,
+    "longitude": -122.699157,
+    "category": "Food Trucks"
+  },
+  {
+    "name": "Wow Cow",
+    "address": "9100 SW Burnham St, Tigard, OR 97223",
+    "latitude": 45.4287172,
+    "longitude": -122.7712153,
+    "category": "Food Trucks"
   },
   {
     "name": "503 Shop",
