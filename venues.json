@@ -1,5 +1,12 @@
 [
   {
+    "name": "48 North Pizzeria",
+    "address": "6500 S Virginia Ave, Portland, OR 97239",
+    "latitude": 45.477201077812,
+    "longitude": -122.673782141734,
+    "category": "Restaurants"
+  },
+  {
     "name": "Addy's Sandwich Bar",
     "address": "911 SW 10th Ave, Portland, OR 97205",
     "latitude": 45.5185693,
