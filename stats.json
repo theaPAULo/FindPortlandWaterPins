@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-20T18:39:51Z",
+  "updated_at": "2026-11-21T17:39:28Z",
   "venues": {
-    "active": 220,
-    "display": "220+",
+    "active": 218,
+    "display": "210+",
     "window_months": 18
   },
   "categories": [
@@ -12,7 +12,7 @@
     },
     {
       "name": "Cafes",
-      "count": 29
+      "count": 28
     },
     {
       "name": "Hotels",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Theaters & Venues",
-      "count": 17
+      "count": 16
     },
     {
       "name": "Offices & Workplaces",
@@ -52,7 +52,7 @@
     }
   ],
   "cans": {
-    "total": 330993,
+    "total": 331089,
     "since": "2024-02"
   }
 }

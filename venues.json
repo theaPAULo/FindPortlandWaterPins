@@ -504,13 +504,6 @@
     "category": "Cafes"
   },
   {
-    "name": "Lola's Cafe Bar",
-    "address": "525 3rd St, Lake Oswego, OR 97034",
-    "latitude": 45.4211544,
-    "longitude": -122.6661857,
-    "category": "Cafes"
-  },
-  {
     "name": "Memento Mori Cafe",
     "address": "1533 Northwest 24th Ave Suite 100 Portland, Oregon 97210",
     "latitude": 45.5338699,
@@ -1208,13 +1201,6 @@
     "address": "1300 SE Stark St. Suite #203 Portland, OR 97214",
     "latitude": 45.5192045,
     "longitude": -122.6519177,
-    "category": "Theaters & Venues"
-  },
-  {
-    "name": "Rose City Jam",
-    "address": "5250 NE Martin Luther King Blvd Portland, OR 97211 United States",
-    "latitude": 45.5614977,
-    "longitude": -122.6609469,
     "category": "Theaters & Venues"
   },
   {
