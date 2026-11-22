@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-21T17:39:28Z",
+  "updated_at": "2026-11-22T17:55:20Z",
   "venues": {
-    "active": 218,
+    "active": 217,
     "display": "210+",
     "window_months": 18
   },
@@ -12,7 +12,7 @@
     },
     {
       "name": "Cafes",
-      "count": 28
+      "count": 27
     },
     {
       "name": "Hotels",
@@ -52,7 +52,7 @@
     }
   ],
   "cans": {
-    "total": 331089,
+    "total": 331161,
     "since": "2024-02"
   }
 }
