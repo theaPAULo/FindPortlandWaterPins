@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-23T22:06:44Z",
+  "updated_at": "2026-11-24T20:43:36Z",
   "venues": {
-    "active": 216,
+    "active": 217,
     "display": "210+",
     "window_months": 18
   },
@@ -49,10 +49,14 @@
     {
       "name": "Museums & Attractions",
       "count": 8
+    },
+    {
+      "name": "More partners",
+      "count": 1
     }
   ],
   "cans": {
-    "total": 331353,
+    "total": 331545,
     "since": "2024-02"
   }
 }

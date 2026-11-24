@@ -1496,5 +1496,12 @@
     "latitude": 45.5108254,
     "longitude": -122.7182921,
     "category": "Museums & Attractions"
+  },
+  {
+    "name": "Pacific Coast",
+    "address": "201 NE 2ND AVE, Portland, OR 97232",
+    "latitude": 45.524093953424,
+    "longitude": -122.663824678461,
+    "category": "More partners"
   }
 ]
