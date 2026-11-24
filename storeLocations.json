@@ -1748,5 +1748,19 @@
     "latitude": 45.477201077812,
     "longitude": -122.673782141734,
     "type": "Restaurant"
+  },
+  {
+    "name": "Pacific Coast",
+    "address": "201 NE 2ND AVE, Portland, OR 97232",
+    "latitude": 45.524093953424,
+    "longitude": -122.663824678461,
+    "type": "Distributor"
+  },
+  {
+    "name": "Premiere Property Group - (Zak Meaut)",
+    "address": "13922 SW Hillshire Dr, Tigard, OR Tigard",
+    "latitude": 45.418893351144,
+    "longitude": -122.822424002366,
+    "type": "Office"
   }
 ]
