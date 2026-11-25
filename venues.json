@@ -714,13 +714,6 @@
     "category": "Food Trucks"
   },
   {
-    "name": "El Pilon",
-    "address": "431 SW Harvey Milk St, Portland, OR 97204",
-    "latitude": 45.5208579,
-    "longitude": -122.676106,
-    "category": "Food Trucks"
-  },
-  {
     "name": "Hina's Island Grindz",
     "address": "11530 SW Pacific Hwy, Tigard, OR 97223",
     "latitude": 45.4405653,
@@ -1278,6 +1271,13 @@
     "address": "750 SW 9th Ave., Portland, OR 97205",
     "latitude": 45.5194058,
     "longitude": -122.6810919,
+    "category": "Offices & Workplaces"
+  },
+  {
+    "name": "Premiere Property Group - (Zak Meaut)",
+    "address": "13922 SW Hillshire Dr, Tigard, OR Tigard",
+    "latitude": 45.418893351144,
+    "longitude": -122.822424002366,
     "category": "Offices & Workplaces"
   },
   {
