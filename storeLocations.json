@@ -1750,17 +1750,24 @@
     "type": "Restaurant"
   },
   {
-    "name": "Pacific Coast",
+    "name": "Pacific Coast Fresh Company",
     "address": "201 NE 2ND AVE, Portland, OR 97232",
     "latitude": 45.524093953424,
     "longitude": -122.663824678461,
     "type": "Distributor"
   },
   {
-    "name": "Premiere Property Group - (Zak Meaut)",
+    "name": "Premiere Property Group",
     "address": "13922 SW Hillshire Dr, Tigard, OR Tigard",
     "latitude": 45.418893351144,
     "longitude": -122.822424002366,
     "type": "Office"
+  },
+  {
+    "name": "Farmer and the Beast",
+    "address": "3675 SW Troy St, Portland OR 97219",
+    "latitude": 45.46844979999999,
+    "longitude": -122.7150266,
+    "type": "Food Truck"
   }
 ]
